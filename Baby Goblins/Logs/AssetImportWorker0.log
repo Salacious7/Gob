@@ -1,0 +1,2275 @@
+Using pre-set license
+Built from '2021.1/staging' branch; Version is '2021.1.18f1 (25bdc3efbc2d) revision 2473411'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19043.1348; Version 2009; 64bit' Language: 'en' Physical Memory: 32622 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.1.18f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/Aric/OneDrive/Documents/Unity projects/Baby Goblins
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+64409
+Successfully changed project path to: C:/Users/Aric/OneDrive/Documents/Unity projects/Baby Goblins
+C:/Users/Aric/OneDrive/Documents/Unity projects/Baby Goblins
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 115.62 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.1.18f1 (25bdc3efbc2d)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.1.18f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Aric/OneDrive/Documents/Unity projects/Baby Goblins/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3080 (ID=0x2206)
+    Vendor:   NVIDIA
+    VRAM:     10078 MB
+    Driver:   30.0.14.9613
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.1.18f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.1.18f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.1.18f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56984
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.1.18f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001126 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 107.03 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.867 seconds
+Domain Reload Profiling:
+	ReloadAssembly (867ms)
+		BeginReloadAssembly (43ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (374ms)
+			LoadAssemblies (41ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (105ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (19ms)
+			SetupLoadedEditorAssemblies (217ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (107ms)
+				BeforeProcessingInitializeOnLoad (1ms)
+				ProcessInitializeOnLoadAttributes (79ms)
+				ProcessInitializeOnLoadMethodAttributes (24ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.004743 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Aric\OneDrive\Documents\Unity projects\Baby Goblins\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Aric\OneDrive\Documents\Unity projects\Baby Goblins\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 101.25 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.023 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1023ms)
+		BeginReloadAssembly (107ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (3ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (16ms)
+		EndReloadAssembly (867ms)
+			LoadAssemblies (76ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (255ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (47ms)
+			SetupLoadedEditorAssemblies (421ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (3ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (101ms)
+				BeforeProcessingInitializeOnLoad (77ms)
+				ProcessInitializeOnLoadAttributes (222ms)
+				ProcessInitializeOnLoadMethodAttributes (13ms)
+				AfterProcessingInitializeOnLoad (4ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (5ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.65 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4812 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 180.7 MB.
+System memory in use after: 180.9 MB.
+
+Unloading 32 unused Assets to reduce memory usage. Loaded Objects now: 5260.
+Total: 2.923100 ms (FindLiveObjects: 0.229000 ms CreateObjectMapping: 0.111400 ms MarkObjects: 2.517400 ms  DeleteObjects: 0.064700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Scenes/xSodaGobbo/sodagobbo.unity
+  artifactKey: Guid(21608915973c96d47828c2821b488c41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/xSodaGobbo/sodagobbo.unity using Guid(21608915973c96d47828c2821b488c41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '891bbf6ecd9cf7f20426919260ae7b03') in 0.015720 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.198601 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae5358dc4379dc44f9319e458a07e3bb') in 0.005487 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 153.208327 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42d402b061de3733987d63b9cc3b64de') in 0.006592 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.242413 seconds.
+  path: Assets/Test
+  artifactKey: Guid(04c6ac2acf41dbb4997f2d260558996c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Test using Guid(04c6ac2acf41dbb4997f2d260558996c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd67ae172cdbd3bc6ec6982307cecf30f') in 0.005212 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 39.518825 seconds.
+  path: Assets/Test/Health Bar Canvas.prefab
+  artifactKey: Guid(ea9abe21790fdeb418590caa7b6daa1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Test/Health Bar Canvas.prefab using Guid(ea9abe21790fdeb418590caa7b6daa1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d6578b110376962c002ffb5f67e1bbd') in 0.035582 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003911 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Aric\OneDrive\Documents\Unity projects\Baby Goblins\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Aric\OneDrive\Documents\Unity projects\Baby Goblins\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.79 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.856 seconds
+Domain Reload Profiling:
+	ReloadAssembly (856ms)
+		BeginReloadAssembly (117ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (41ms)
+		EndReloadAssembly (698ms)
+			LoadAssemblies (69ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (251ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (30ms)
+			SetupLoadedEditorAssemblies (277ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (3ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (56ms)
+				ProcessInitializeOnLoadAttributes (205ms)
+				ProcessInitializeOnLoadMethodAttributes (8ms)
+				AfterProcessingInitializeOnLoad (4ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (8ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.78 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4742 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 174.8 MB.
+System memory in use after: 175.1 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 5263.
+Total: 2.664900 ms (FindLiveObjects: 0.283400 ms CreateObjectMapping: 0.118200 ms MarkObjects: 2.245800 ms  DeleteObjects: 0.016800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003776 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Aric\OneDrive\Documents\Unity projects\Baby Goblins\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Aric\OneDrive\Documents\Unity projects\Baby Goblins\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.62 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.898 seconds
+Domain Reload Profiling:
+	ReloadAssembly (898ms)
+		BeginReloadAssembly (111ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (33ms)
+		EndReloadAssembly (737ms)
+			LoadAssemblies (71ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (268ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (31ms)
+			SetupLoadedEditorAssemblies (291ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (3ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (65ms)
+				ProcessInitializeOnLoadAttributes (208ms)
+				ProcessInitializeOnLoadMethodAttributes (10ms)
+				AfterProcessingInitializeOnLoad (4ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (8ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.63 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4742 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 174.9 MB.
+System memory in use after: 175.2 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 5266.
+Total: 2.750600 ms (FindLiveObjects: 0.310500 ms CreateObjectMapping: 0.171200 ms MarkObjects: 2.248400 ms  DeleteObjects: 0.019500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003723 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Aric\OneDrive\Documents\Unity projects\Baby Goblins\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Aric\OneDrive\Documents\Unity projects\Baby Goblins\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.66 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.917 seconds
+Domain Reload Profiling:
+	ReloadAssembly (917ms)
+		BeginReloadAssembly (103ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (31ms)
+		EndReloadAssembly (772ms)
+			LoadAssemblies (77ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (288ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (32ms)
+			SetupLoadedEditorAssemblies (289ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (59ms)
+				ProcessInitializeOnLoadAttributes (210ms)
+				ProcessInitializeOnLoadMethodAttributes (11ms)
+				AfterProcessingInitializeOnLoad (4ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (8ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.33 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4742 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 174.9 MB.
+System memory in use after: 175.2 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 5269.
+Total: 5.304300 ms (FindLiveObjects: 0.264800 ms CreateObjectMapping: 0.133400 ms MarkObjects: 4.854600 ms  DeleteObjects: 0.049700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 784.954986 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(f49ad884dd3a35b438d85b46264e7b49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(f49ad884dd3a35b438d85b46264e7b49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '907706999f50ecea06ab532bdd2cf27b') in 0.010581 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 14.360570 seconds.
+  path: Assets/Scenes/New SceneTemplate.scenetemplate
+  artifactKey: Guid(f89e27a5d8de624479af4f9496ed22f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/New SceneTemplate.scenetemplate using Guid(f89e27a5d8de624479af4f9496ed22f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8631439d853d86ad655a1cd040fc58f1') in 0.047162 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.438403 seconds.
+  path: Assets/Scenes/xSodaGobbo
+  artifactKey: Guid(5d6c83d2d399db74e9ec4fe6af0af91d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/xSodaGobbo using Guid(5d6c83d2d399db74e9ec4fe6af0af91d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a1fc6b8005124aee23ea5447c0d951d') in 0.007063 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 12.068601 seconds.
+  path: Assets/Scenes/Main Menu.unity
+  artifactKey: Guid(2908a606bfc2c7948b14d322a8a0c5a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Main Menu.unity using Guid(2908a606bfc2c7948b14d322a8a0c5a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46965e7567be7fd5441c8fddffc97f9e') in 0.005952 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003946 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Aric\OneDrive\Documents\Unity projects\Baby Goblins\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Aric\OneDrive\Documents\Unity projects\Baby Goblins\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.75 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.820 seconds
+Domain Reload Profiling:
+	ReloadAssembly (820ms)
+		BeginReloadAssembly (87ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (30ms)
+		EndReloadAssembly (693ms)
+			LoadAssemblies (68ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (253ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (32ms)
+			SetupLoadedEditorAssemblies (265ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (56ms)
+				ProcessInitializeOnLoadAttributes (193ms)
+				ProcessInitializeOnLoadMethodAttributes (7ms)
+				AfterProcessingInitializeOnLoad (4ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (8ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.61 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4742 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 178.8 MB.
+System memory in use after: 179.1 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 5274.
+Total: 2.614700 ms (FindLiveObjects: 0.222500 ms CreateObjectMapping: 0.121700 ms MarkObjects: 2.252700 ms  DeleteObjects: 0.017100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 110.862538 seconds.
+  path: Assets/Menu Graphics
+  artifactKey: Guid(cd130e4d15a07c04cbbb0da120a34c59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Menu Graphics using Guid(cd130e4d15a07c04cbbb0da120a34c59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '885667b78bd03f0d43d78e2df432b768') in 0.008776 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 338.272637 seconds.
+  path: Assets/Scenes/xSodaGobbo/prototypesprites/icespiker/amazonite_icespiker_sprite.png
+  artifactKey: Guid(458e382570d9a8f41bafe0139cbb2405) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/xSodaGobbo/prototypesprites/icespiker/amazonite_icespiker_sprite.png using Guid(458e382570d9a8f41bafe0139cbb2405) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5668abbf8d4e5fc5cbe79e82829392c5') in 0.060853 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.975370 seconds.
+  path: Assets/Characters/players/Gob/baby gob attack particle spritesheet.png
+  artifactKey: Guid(a9b087af77032d6439ceefd27110f5b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Characters/players/Gob/baby gob attack particle spritesheet.png using Guid(a9b087af77032d6439ceefd27110f5b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e633f7847a9b2dbd20e8d4b1a3a4bb2') in 0.017274 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004280 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Aric\OneDrive\Documents\Unity projects\Baby Goblins\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Aric\OneDrive\Documents\Unity projects\Baby Goblins\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.67 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.838 seconds
+Domain Reload Profiling:
+	ReloadAssembly (838ms)
+		BeginReloadAssembly (94ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (30ms)
+		EndReloadAssembly (702ms)
+			LoadAssemblies (73ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (251ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (31ms)
+			SetupLoadedEditorAssemblies (273ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (58ms)
+				ProcessInitializeOnLoadAttributes (200ms)
+				ProcessInitializeOnLoadMethodAttributes (7ms)
+				AfterProcessingInitializeOnLoad (4ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (10ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.61 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4744 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 179.7 MB.
+System memory in use after: 179.9 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 5325.
+Total: 2.607200 ms (FindLiveObjects: 0.220200 ms CreateObjectMapping: 0.103800 ms MarkObjects: 2.267700 ms  DeleteObjects: 0.014600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 240.304034 seconds.
+  path: Assets/Characters
+  artifactKey: Guid(aff41dfb94bc5a84d88617a1f23bfdd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Characters using Guid(aff41dfb94bc5a84d88617a1f23bfdd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32c44c4970cba68f925036fd8a062094') in 0.012202 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 45.543833 seconds.
+  path: Assets/PressStart2P-vaV7 SDF.asset
+  artifactKey: Guid(25254fd1373701c45836c5029729d1be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PressStart2P-vaV7 SDF.asset using Guid(25254fd1373701c45836c5029729d1be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bdc1402844eaacd6b0d836ef8caa0975') in 0.045610 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.741367 seconds.
+  path: Assets/PressStart2P-vaV7.ttf
+  artifactKey: Guid(0e9a71450eaec0443a8ebfa4e30c0be3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PressStart2P-vaV7.ttf using Guid(0e9a71450eaec0443a8ebfa4e30c0be3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f7b2f20e5d11cd5009bb99d055108b4') in 0.118746 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005026 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Aric\OneDrive\Documents\Unity projects\Baby Goblins\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Aric\OneDrive\Documents\Unity projects\Baby Goblins\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.62 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.928 seconds
+Domain Reload Profiling:
+	ReloadAssembly (929ms)
+		BeginReloadAssembly (108ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (36ms)
+		EndReloadAssembly (777ms)
+			LoadAssemblies (75ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (278ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (35ms)
+			SetupLoadedEditorAssemblies (291ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (3ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (67ms)
+				ProcessInitializeOnLoadAttributes (210ms)
+				ProcessInitializeOnLoadMethodAttributes (6ms)
+				AfterProcessingInitializeOnLoad (4ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (15ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.77 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4744 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 183.4 MB.
+System memory in use after: 183.6 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 5440.
+Total: 3.182500 ms (FindLiveObjects: 0.331600 ms CreateObjectMapping: 0.157200 ms MarkObjects: 2.668100 ms  DeleteObjects: 0.024500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004141 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Aric\OneDrive\Documents\Unity projects\Baby Goblins\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Aric\OneDrive\Documents\Unity projects\Baby Goblins\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.62 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.864 seconds
+Domain Reload Profiling:
+	ReloadAssembly (864ms)
+		BeginReloadAssembly (97ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (29ms)
+		EndReloadAssembly (721ms)
+			LoadAssemblies (77ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (245ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (30ms)
+			SetupLoadedEditorAssemblies (280ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (3ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (59ms)
+				ProcessInitializeOnLoadAttributes (206ms)
+				ProcessInitializeOnLoadMethodAttributes (6ms)
+				AfterProcessingInitializeOnLoad (5ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (14ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.61 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4742 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 183.3 MB.
+System memory in use after: 183.6 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 5443.
+Total: 2.795900 ms (FindLiveObjects: 0.258200 ms CreateObjectMapping: 0.126800 ms MarkObjects: 2.393200 ms  DeleteObjects: 0.016800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 545.669673 seconds.
+  path: Assets/Jetpack.cs
+  artifactKey: Guid(386050ae7d903bd48954c5aa78733730) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Jetpack.cs using Guid(386050ae7d903bd48954c5aa78733730) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6833f93a7f9aaac9986f6c823d0f9745') in 0.014884 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 37.593978 seconds.
+  path: Assets/PressStart2P-vaV7.ttf
+  artifactKey: Guid(0e9a71450eaec0443a8ebfa4e30c0be3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PressStart2P-vaV7.ttf using Guid(0e9a71450eaec0443a8ebfa4e30c0be3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e64884ec82162a3a83be38ada6a50d3') in 0.105778 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 360.069194 seconds.
+  path: Assets/Characters/players/Gob/baby gob attack particle v2.png
+  artifactKey: Guid(67e2c6bdd1311244d86c2adfb19b1225) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Characters/players/Gob/baby gob attack particle v2.png using Guid(67e2c6bdd1311244d86c2adfb19b1225) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '003bd425cc68213500e3d85030623893') in 0.024059 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.072044 seconds.
+  path: Assets/Characters/players/Gob/baby gob attack particle-Sheet.png
+  artifactKey: Guid(260c22ee1d979d14390f5669d1894bbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Characters/players/Gob/baby gob attack particle-Sheet.png using Guid(260c22ee1d979d14390f5669d1894bbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '153b82259b99ec91376f09f51afed25d') in 0.017176 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.946609 seconds.
+  path: Assets/Characters/players/Gob/baby gob jump spritesheet.png
+  artifactKey: Guid(057f167c945a3cc4289965cb7b3c800d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Characters/players/Gob/baby gob jump spritesheet.png using Guid(057f167c945a3cc4289965cb7b3c800d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bcecf723a911920ddfd6e4e1e0f64243') in 0.015805 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.606556 seconds.
+  path: Assets/Characters/players/Gob/baby gob spritesheet.png
+  artifactKey: Guid(9c01652068e80a34d8faee371eb932e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Characters/players/Gob/baby gob spritesheet.png using Guid(9c01652068e80a34d8faee371eb932e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ab907b135855f9ffee22816b592bbb8') in 0.027954 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.361159 seconds.
+  path: Assets/Characters/Enemies/Bat/bat-Sheet.png
+  artifactKey: Guid(f3005dda5eab962479c3371ed1990889) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Characters/Enemies/Bat/bat-Sheet.png using Guid(f3005dda5eab962479c3371ed1990889) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1309cdfc76f115a51938bfd5f4089741') in 0.085531 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000175 seconds.
+  path: Assets/Environment/Cave Tileset/cave1addit3.png
+  artifactKey: Guid(e790ec346b7a66d448c03be393ab4c59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Environment/Cave Tileset/cave1addit3.png using Guid(e790ec346b7a66d448c03be393ab4c59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '399a7357fb382d0ccc714f804fea5ac4') in 0.013166 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000128 seconds.
+  path: Assets/Scenes/xSodaGobbo/bg_grasshill_collection.png
+  artifactKey: Guid(eb47b2b346fa36e4db6876c173e4817b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/xSodaGobbo/bg_grasshill_collection.png using Guid(eb47b2b346fa36e4db6876c173e4817b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '932d81ebf39e6f2f6cb35df67b2b95d9') in 0.052687 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/Scenes/xSodaGobbo/bg_ironboss_assets.png
+  artifactKey: Guid(f93cd894395be2e4ca54931c04251d02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/xSodaGobbo/bg_ironboss_assets.png using Guid(f93cd894395be2e4ca54931c04251d02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1378095cd3296f7c2f952f533e6dceb5') in 0.057904 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000157 seconds.
+  path: Assets/Characters/Enemies/Fire Spirit/golemfirespirit-Sheet.png
+  artifactKey: Guid(6d8480c315789004891aa84e8b4de745) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Characters/Enemies/Fire Spirit/golemfirespirit-Sheet.png using Guid(6d8480c315789004891aa84e8b4de745) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e8d323f31c172214f2f737c8ce89026') in 0.070884 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000169 seconds.
+  path: Assets/Scenes/xSodaGobbo/bg_grassmountain.png
+  artifactKey: Guid(f9856e6cb4135d54791b1266d9408076) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/xSodaGobbo/bg_grassmountain.png using Guid(f9856e6cb4135d54791b1266d9408076) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2bf6e2ab894e649d24917d45c132280f') in 0.044301 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000135 seconds.
+  path: Assets/Scenes/xSodaGobbo/underground_tilesheet 1.png
+  artifactKey: Guid(a1e17c559752ad7429970f471fd1befe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/xSodaGobbo/underground_tilesheet 1.png using Guid(a1e17c559752ad7429970f471fd1befe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2221aeb095757b48f6953c2a2a6ab6f') in 0.157130 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/Environment/Test Set/testingset1.png
+  artifactKey: Guid(ac07e6cb6e9e31c49a50c88539892ab0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Environment/Test Set/testingset1.png using Guid(ac07e6cb6e9e31c49a50c88539892ab0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfce730387cf2516c3478c82e534c736') in 0.056819 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/Environment/Cave Tileset/cave1.png
+  artifactKey: Guid(0b9c7484c9369174183d653ce13ec7ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Environment/Cave Tileset/cave1.png using Guid(0b9c7484c9369174183d653ce13ec7ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6db13807737f399a5ccd692668a3df5a') in 0.070285 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Assets/Scenes/xSodaGobbo/wall_tilesheet.png
+  artifactKey: Guid(0c46906f8e21d1b49b8711930863fdc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/xSodaGobbo/wall_tilesheet.png using Guid(0c46906f8e21d1b49b8711930863fdc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d08a645a6d67eb6d82e2075cb29438b') in 0.047228 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/Environment/Cave Tileset/cave1addit2.png
+  artifactKey: Guid(528bb291913ac634bbdc2f00efe0549d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Environment/Cave Tileset/cave1addit2.png using Guid(528bb291913ac634bbdc2f00efe0549d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d8d59e125427bbea8198ff4deb2541a') in 0.021672 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/Environment/Cave Tileset/cave01addit.png
+  artifactKey: Guid(d29b3761a3b3cc9448bfb6805066d350) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Environment/Cave Tileset/cave01addit.png using Guid(d29b3761a3b3cc9448bfb6805066d350) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ee0a4559f521e1a169806493d86f7b7') in 0.020920 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000398 seconds.
+  path: Assets/Characters/Enemies/Rat/rat-Sheet.png
+  artifactKey: Guid(c04a814f9fb59b74b96b011cb47cc8d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Characters/Enemies/Rat/rat-Sheet.png using Guid(c04a814f9fb59b74b96b011cb47cc8d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af05126c78a0dc7a364243da1957df5b') in 0.059476 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000166 seconds.
+  path: Assets/Characters/Enemies/Golem/golembig-Sheet.png
+  artifactKey: Guid(3fd19316c23f64a4da72278edaedba04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Characters/Enemies/Golem/golembig-Sheet.png using Guid(3fd19316c23f64a4da72278edaedba04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c39ee08953788ac903c50c8364334790') in 0.090681 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/Characters/Enemies/Crystal Ward/crystalwardred-Sheet.png
+  artifactKey: Guid(ef49c1e72ea111f419448f8632b2070d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Characters/Enemies/Crystal Ward/crystalwardred-Sheet.png using Guid(ef49c1e72ea111f419448f8632b2070d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '694d2a18895240cca058fb20e68a6679') in 0.085651 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000130 seconds.
+  path: Assets/Characters/Enemies/Crystal Dwarf/crystaldwarf-Sheet.png
+  artifactKey: Guid(78b2706189fb0984f9187bf0ad5e6558) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Characters/Enemies/Crystal Dwarf/crystaldwarf-Sheet.png using Guid(78b2706189fb0984f9187bf0ad5e6558) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2e81092ba00060b8d47d38dddbc9104') in 0.083934 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000170 seconds.
+  path: Assets/Scenes/xSodaGobbo/bg_scroched_tileset.png
+  artifactKey: Guid(c6e699eccc297a44a882475d4cf151d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/xSodaGobbo/bg_scroched_tileset.png using Guid(c6e699eccc297a44a882475d4cf151d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b291d49439e774089290b05e8efebb0') in 0.039136 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/Environment/Cave Tileset/cave01color.png
+  artifactKey: Guid(e324eb7778a80554c9b64a794c53cb2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Environment/Cave Tileset/cave01color.png using Guid(e324eb7778a80554c9b64a794c53cb2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8efe47848709ec4e49ea4f7ad3feb84') in 0.015095 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000177 seconds.
+  path: Assets/Scenes/xSodaGobbo/underground_tilesheet.png
+  artifactKey: Guid(ed99a97449f484941877995ab114b9dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/xSodaGobbo/underground_tilesheet.png using Guid(ed99a97449f484941877995ab114b9dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da932b69f73f406d557f3191f4bb9c17') in 0.073955 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 27.520820 seconds.
+  path: Assets/Characters/Enemies/Strider Shade/strider-Sheet.png
+  artifactKey: Guid(4d537d3dcd3cd754d9235bbefccf3cbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Characters/Enemies/Strider Shade/strider-Sheet.png using Guid(4d537d3dcd3cd754d9235bbefccf3cbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53147619bb8444300c01172791b7d9a2') in 0.056776 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/Scenes/xSodaGobbo/scorched_pillar1.png
+  artifactKey: Guid(2edd98720ed58d640a8a021e2af18203) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/xSodaGobbo/scorched_pillar1.png using Guid(2edd98720ed58d640a8a021e2af18203) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c16b525443820e969b50b69ddef0ac74') in 0.012256 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/Scenes/xSodaGobbo/scorched_pillar5.png
+  artifactKey: Guid(a8ed0bf8f0cc50f4c997b7beaad36464) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/xSodaGobbo/scorched_pillar5.png using Guid(a8ed0bf8f0cc50f4c997b7beaad36464) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15e75c89fb88b4ccfae5151585b7b3e5') in 0.015296 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/Scenes/xSodaGobbo/scorched_pillar4.png
+  artifactKey: Guid(76ff61dd84a40b2449fd752a96dbdfb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/xSodaGobbo/scorched_pillar4.png using Guid(76ff61dd84a40b2449fd752a96dbdfb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0cc2258f1989ad33ee18309c8264ccc') in 0.016824 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000335 seconds.
+  path: Assets/Scenes/xSodaGobbo/scorched_pillar2.png
+  artifactKey: Guid(64377a4075447fa4789b232684a96b8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/xSodaGobbo/scorched_pillar2.png using Guid(64377a4075447fa4789b232684a96b8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '697827533e5eb41c95b6e7d92ee792d8') in 0.012785 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/Scenes/xSodaGobbo/props_plant2.png
+  artifactKey: Guid(062023d342ce06a48b396d94dcd3e8b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/xSodaGobbo/props_plant2.png using Guid(062023d342ce06a48b396d94dcd3e8b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6aae659d3698b3f78a91162632b62417') in 0.036311 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/Scenes/xSodaGobbo/scorched_pillar3.png
+  artifactKey: Guid(05cee2c325cfba34eb0ab7485095f6db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/xSodaGobbo/scorched_pillar3.png using Guid(05cee2c325cfba34eb0ab7485095f6db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '734671c6626c3cce68a5e4e95dd7873c') in 0.014192 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.430180 seconds.
+  path: Assets/Scenes/xSodaGobbo/props_grass.png
+  artifactKey: Guid(82914b17202020844a6f6837692eab4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/xSodaGobbo/props_grass.png using Guid(82914b17202020844a6f6837692eab4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7cfd12851143967235571e7c7f4c8467') in 0.026218 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000122 seconds.
+  path: Assets/Scenes/xSodaGobbo/prototypesprites/Iron Boss/Sprites/iron boss-platform.png
+  artifactKey: Guid(9ac6f22d5b63c594eab47596df80cba6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/xSodaGobbo/prototypesprites/Iron Boss/Sprites/iron boss-platform.png using Guid(9ac6f22d5b63c594eab47596df80cba6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24b53b6aa8d3934e45b56343d3db70b7') in 0.024226 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000144 seconds.
+  path: Assets/Characters/Enemies/Dio Dudes/MiniDiodude.png
+  artifactKey: Guid(bf3b5cfc9a5a0224f906a5a0f44c96de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Characters/Enemies/Dio Dudes/MiniDiodude.png using Guid(bf3b5cfc9a5a0224f906a5a0f44c96de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14677569d25ff012d702a41e3b500f82') in 0.012271 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/Scenes/xSodaGobbo/levelconceptsoda .png
+  artifactKey: Guid(ff5a5981ab820c24c8f59fdad5ad4b5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/xSodaGobbo/levelconceptsoda .png using Guid(ff5a5981ab820c24c8f59fdad5ad4b5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '523b89f613ed66e655a67f0698c0a2ec') in 0.016519 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.223043 seconds.
+  path: Assets/UI/healthbar.png
+  artifactKey: Guid(7998ac77d1ce7d94f83ae304043505bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/healthbar.png using Guid(7998ac77d1ce7d94f83ae304043505bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0612320c72c8aaa075d52b67f32d398') in 0.016624 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/Scenes/xSodaGobbo/prototypesprites/Iron Boss/Sprites/iron boss final 2.png
+  artifactKey: Guid(8bd061361dd41e941a2b467e36e33c4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/xSodaGobbo/prototypesprites/Iron Boss/Sprites/iron boss final 2.png using Guid(8bd061361dd41e941a2b467e36e33c4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f88c42c7554416bba44f3b0c52c556a9') in 0.016784 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/Scenes/xSodaGobbo/prototypesprites/Iron Boss/Sprites/iron boss final.png
+  artifactKey: Guid(b9d3b916ced15324c8ec4701f4faa114) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/xSodaGobbo/prototypesprites/Iron Boss/Sprites/iron boss final.png using Guid(b9d3b916ced15324c8ec4701f4faa114) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '932835e7ada98c0c07ff06e2b3f60bb3') in 0.014839 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/Characters/players/Gob/gob attack aftereffect-Sheet.png
+  artifactKey: Guid(0acff58d5d4c8434db2cbe10014d210c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Characters/players/Gob/gob attack aftereffect-Sheet.png using Guid(0acff58d5d4c8434db2cbe10014d210c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '770927a45f3dfe0992cf29d1edd75246') in 0.023922 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000167 seconds.
+  path: Assets/Characters/Enemies/Dio Dudes/DioDude.png
+  artifactKey: Guid(eb68c8c053da17b41b2939b725ca28c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Characters/Enemies/Dio Dudes/DioDude.png using Guid(eb68c8c053da17b41b2939b725ca28c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '426b89fdda95a3d15efb300133db79eb') in 0.011567 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/Scenes/xSodaGobbo/prototypesprites/Geofamily Big Bro/Sprite/geobro_man_separated.png
+  artifactKey: Guid(a288e15bb1fda3542bfb9cfd495890ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/xSodaGobbo/prototypesprites/Geofamily Big Bro/Sprite/geobro_man_separated.png using Guid(a288e15bb1fda3542bfb9cfd495890ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bac1b1321ffa883b53871caae4bf9f9c') in 0.014063 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000171 seconds.
+  path: Assets/Characters/followers/genericgoblin/genericbaby1.png
+  artifactKey: Guid(77aa23a91f910994e8c3d2a7978b9c09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Characters/followers/genericgoblin/genericbaby1.png using Guid(77aa23a91f910994e8c3d2a7978b9c09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28bb91e76cb427be0e6d2e76e6b3c4e6') in 0.034468 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/Characters/Enemies/Small Ghost/ghostsmall-Sheet.png
+  artifactKey: Guid(49426c23343dc32418a7e4467f6f396b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Characters/Enemies/Small Ghost/ghostsmall-Sheet.png using Guid(49426c23343dc32418a7e4467f6f396b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a2b94c25ac65283cffae9a3d2219756') in 0.041773 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.269051 seconds.
+  path: Assets/Environment/Cave Tileset/cave01plax-Sheet.png
+  artifactKey: Guid(974ec39041b01f246b9fe42e0c9bc2fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Environment/Cave Tileset/cave01plax-Sheet.png using Guid(974ec39041b01f246b9fe42e0c9bc2fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a02311a53202db4fc50e431bf785357') in 0.029489 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 10.065958 seconds.
+  path: Assets/Scenes/xSodaGobbo/black_transition_tilesheet.png
+  artifactKey: Guid(d99ef77f0d04cb846b013809d4964d36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/xSodaGobbo/black_transition_tilesheet.png using Guid(d99ef77f0d04cb846b013809d4964d36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6742aa704f62dfa21b57e2fcce3e0ed9') in 0.020270 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.307678 seconds.
+  path: Assets/Scenes/xSodaGobbo/prototypesprites/wyvern/bismuth_wyvern_sprite.png
+  artifactKey: Guid(ae68713d48cf6e3468b20838abf6dcc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/xSodaGobbo/prototypesprites/wyvern/bismuth_wyvern_sprite.png using Guid(ae68713d48cf6e3468b20838abf6dcc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f05985ad3b30d1309f044673c87b9bf') in 0.009403 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004457 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Aric\OneDrive\Documents\Unity projects\Baby Goblins\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Aric\OneDrive\Documents\Unity projects\Baby Goblins\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.89 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.960 seconds
+Domain Reload Profiling:
+	ReloadAssembly (960ms)
+		BeginReloadAssembly (123ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (38ms)
+		EndReloadAssembly (792ms)
+			LoadAssemblies (87ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (262ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (33ms)
+			SetupLoadedEditorAssemblies (292ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (3ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (66ms)
+				ProcessInitializeOnLoadAttributes (211ms)
+				ProcessInitializeOnLoadMethodAttributes (6ms)
+				AfterProcessingInitializeOnLoad (4ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (20ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.63 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4787 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 228.0 MB.
+System memory in use after: 228.4 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 6541.
+Total: 2.913200 ms (FindLiveObjects: 0.356900 ms CreateObjectMapping: 0.149700 ms MarkObjects: 2.383500 ms  DeleteObjects: 0.022200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 574.123234 seconds.
+  path: Assets/Bat.prefab
+  artifactKey: Guid(f3394a201c8717044be52ccaa58106af) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Bat.prefab using Guid(f3394a201c8717044be52ccaa58106af) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'c1e3f82a3e5088bf21631173b1caaefe') in 0.047052 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000157 seconds.
+  path: Assets/Characters/players/Gob/baby gob idlestill.anim
+  artifactKey: Guid(09a090565e21cda49916dc0beb78e6a8) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Characters/players/Gob/baby gob idlestill.anim using Guid(09a090565e21cda49916dc0beb78e6a8) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'f8a561646afc3b237359ba93ebe26ef4') in 0.010667 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/Characters/players/Gob/baby gob attack particle-Sheet.png
+  artifactKey: Guid(260c22ee1d979d14390f5669d1894bbb) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Characters/players/Gob/baby gob attack particle-Sheet.png using Guid(260c22ee1d979d14390f5669d1894bbb) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'e0fefae3da977bbf5c6f42c967a0944b') in 0.017278 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000164 seconds.
+  path: Assets/URPA/UniversalRenderPipelineAsset_Renderer.asset
+  artifactKey: Guid(c09a4727812206546ab3851067b24039) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/URPA/UniversalRenderPipelineAsset_Renderer.asset using Guid(c09a4727812206546ab3851067b24039) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '31ece093ffa6055ff9a002ca482a0e13') in 0.009124 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/Characters/Enemies/Golem/JumpUp.anim
+  artifactKey: Guid(47c1a9f0159f12c45baf1e37309a924d) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Characters/Enemies/Golem/JumpUp.anim using Guid(47c1a9f0159f12c45baf1e37309a924d) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '83c40836057b99334fe31153cb66689e') in 0.007510 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/Characters/Enemies/Fire Spirit/Hovering.anim
+  artifactKey: Guid(1ef392e88f2584646a212e74ab701fc2) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Characters/Enemies/Fire Spirit/Hovering.anim using Guid(1ef392e88f2584646a212e74ab701fc2) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '26cd4fb783b134d00069ede6a7363da3') in 0.006841 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000299 seconds.
+  path: Assets/Characters/Enemies/Bat/bat-Sheet.png
+  artifactKey: Guid(f3005dda5eab962479c3371ed1990889) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Characters/Enemies/Bat/bat-Sheet.png using Guid(f3005dda5eab962479c3371ed1990889) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '88d46a18721160280792fe89ea6fd3fb') in 0.016511 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/Environment/Cave Tileset/cave1 palette/cave1_32.asset
+  artifactKey: Guid(a466d87adf618fe46990270e165b9ed7) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Environment/Cave Tileset/cave1 palette/cave1_32.asset using Guid(a466d87adf618fe46990270e165b9ed7) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'c3f6b55ea06221bae00b94b4f5afb4f1') in 0.007691 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/Environment/Cave Tileset/cave1 palette/cave1_5.asset
+  artifactKey: Guid(f3ec59fb4f14bc44989a3071f353cf51) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Environment/Cave Tileset/cave1 palette/cave1_5.asset using Guid(f3ec59fb4f14bc44989a3071f353cf51) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'ae6837e3da0ae96bc7c73c3efa81fbc5') in 0.006944 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/Scenes/xSodaGobbo/Main Camera.prefab
+  artifactKey: Guid(de8d8fa1c043ca849b896b2168617048) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scenes/xSodaGobbo/Main Camera.prefab using Guid(de8d8fa1c043ca849b896b2168617048) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'b85110b51862778f626ff0e7d49b046a') in 0.007592 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000155 seconds.
+  path: Assets/Characters/Enemies/Dio Dudes/DioDude.png
+  artifactKey: Guid(eb68c8c053da17b41b2939b725ca28c3) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Characters/Enemies/Dio Dudes/DioDude.png using Guid(eb68c8c053da17b41b2939b725ca28c3) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '46601577615ed3a28608588325dca8b1') in 0.007407 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000152 seconds.
+  path: Assets/Characters/players/Gob/baby gob attack.anim
+  artifactKey: Guid(59b325bcf2257f147a737792fb0373b6) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Characters/players/Gob/baby gob attack.anim using Guid(59b325bcf2257f147a737792fb0373b6) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'a7bbdc394771f707b23929703084cc68') in 0.006856 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/Characters/Enemies/Bat/Bat.prefab
+  artifactKey: Guid(fc8545218f2176943b83e7dee36fed0e) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Characters/Enemies/Bat/Bat.prefab using Guid(fc8545218f2176943b83e7dee36fed0e) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'c4472527831f2407fd10e88eb1737c91') in 0.007431 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000177 seconds.
+  path: Assets/Characters/Enemies/Rat/Rat Attack.anim
+  artifactKey: Guid(8a03e4c74422d054d9330bdf1d6082a8) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Characters/Enemies/Rat/Rat Attack.anim using Guid(8a03e4c74422d054d9330bdf1d6082a8) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '8c1f6a6c24bea25d4f1c6295dfcbac49') in 0.006160 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000162 seconds.
+  path: Assets/Scenes/xSodaGobbo/prototypesprites/Geofamily Big Bro/Animation/hurt.anim
+  artifactKey: Guid(16d33e2996914b2449cc7cfa6fbab5e9) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scenes/xSodaGobbo/prototypesprites/Geofamily Big Bro/Animation/hurt.anim using Guid(16d33e2996914b2449cc7cfa6fbab5e9) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '79251b57cfb901308ab2d70164d92df3') in 0.007069 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000161 seconds.
+  path: Assets/Environment/Cave Tileset/cave1addit3.png
+  artifactKey: Guid(e790ec346b7a66d448c03be393ab4c59) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Environment/Cave Tileset/cave1addit3.png using Guid(e790ec346b7a66d448c03be393ab4c59) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '11f65197233e201546e729e31dd4497f') in 0.009624 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/Environment/Cave Tileset/cave1 palette/cave1_17.asset
+  artifactKey: Guid(639252ad982c0524394d72882d03dff6) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Environment/Cave Tileset/cave1 palette/cave1_17.asset using Guid(639252ad982c0524394d72882d03dff6) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'd67a82b13b21a543edd30a3c0ca8783b') in 0.006579 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000157 seconds.
+  path: Assets/Characters/Enemies/Small Ghost/SmallGhost.controller
+  artifactKey: Guid(0f580660cec9f2249915e20f81384247) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Characters/Enemies/Small Ghost/SmallGhost.controller using Guid(0f580660cec9f2249915e20f81384247) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'f777b03db9281ec7bc172e8b09fff347') in 0.010988 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000310 seconds.
+  path: Assets/Scenes/xSodaGobbo/prototypesprites/Iron Boss/Animations/ironboss_stage1_attack1.anim
+  artifactKey: Guid(83ba23eac227555488f99ead9d44fc2e) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scenes/xSodaGobbo/prototypesprites/Iron Boss/Animations/ironboss_stage1_attack1.anim using Guid(83ba23eac227555488f99ead9d44fc2e) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '2ba70677f6903d341cdfda21689683d5') in 0.013669 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000617 seconds.
+  path: Assets/URPA/UniversalRenderPipelineAsset.asset
+  artifactKey: Guid(30c44f3cbc7b9b046acf2961176168d1) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/URPA/UniversalRenderPipelineAsset.asset using Guid(30c44f3cbc7b9b046acf2961176168d1) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '9a76a749fde46309160c51e8ab41e25a') in 0.016892 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000350 seconds.
+  path: Assets/Environment/Cave Tileset/cave1 palette/cave1_35.asset
+  artifactKey: Guid(3b16e150e0b989e49917ee62373a050a) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Environment/Cave Tileset/cave1 palette/cave1_35.asset using Guid(3b16e150e0b989e49917ee62373a050a) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '7bed3e63adcfa21b8726668ce69bee5c') in 0.007865 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/Environment/Cave Tileset/cave1 palette/cave1_16.asset
+  artifactKey: Guid(cd4202a82a25a0148a76260cb43b9321) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Environment/Cave Tileset/cave1 palette/cave1_16.asset using Guid(cd4202a82a25a0148a76260cb43b9321) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'cde520e2295f7a1ac7e10b16fe86f332') in 0.006907 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/Environment/Cave Tileset/cave1 palette/cave1_29.asset
+  artifactKey: Guid(a4d1a7d0733938d4f9d8805ca366e7ce) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Environment/Cave Tileset/cave1 palette/cave1_29.asset using Guid(a4d1a7d0733938d4f9d8805ca366e7ce) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '952ba37601248310b501a00f8fe0cf0e') in 0.006927 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000140 seconds.
+  path: Assets/Characters/Enemies/Golem/GolemBig.controller
+  artifactKey: Guid(2f4cc68b8de1ad742bd3f052c5e4fdf3) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Characters/Enemies/Golem/GolemBig.controller using Guid(2f4cc68b8de1ad742bd3f052c5e4fdf3) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'e29961c88641fa67d8b4db3c67b797c4') in 0.007456 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/Characters/followers/genericgoblin/FollowerGoblin.controller
+  artifactKey: Guid(6996877e647a53e49ad456f829927dbe) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Characters/followers/genericgoblin/FollowerGoblin.controller using Guid(6996877e647a53e49ad456f829927dbe) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '5a6a315dca53cd5491d5c48cd5fa6447') in 0.007188 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000137 seconds.
+  path: Assets/Scenes/xSodaGobbo/prototypesprites/Geofamily Big Bro/Animation/walk.anim
+  artifactKey: Guid(3eb4bc2a42b9df94ba5db0a40e378dae) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scenes/xSodaGobbo/prototypesprites/Geofamily Big Bro/Animation/walk.anim using Guid(3eb4bc2a42b9df94ba5db0a40e378dae) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'cef8b45eae1e13f907e7744c0a519389') in 0.007633 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000133 seconds.
+  path: Assets/Environment/Cave Tileset/cave1 palette/cave1_27.asset
+  artifactKey: Guid(16873803480f5e44eb09148318a14566) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Environment/Cave Tileset/cave1 palette/cave1_27.asset using Guid(16873803480f5e44eb09148318a14566) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '142f2e58b87481d4e052ced8dfa9e4f6') in 0.007561 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/Scripts/Enemy Scripts/FlyingEnemyNoBrain.cs
+  artifactKey: Guid(e231a24cad4c1964ba4ce8d7f0e84d87) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scripts/Enemy Scripts/FlyingEnemyNoBrain.cs using Guid(e231a24cad4c1964ba4ce8d7f0e84d87) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '826361c49753792369a246d152282e1f') in 0.007104 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/Scripts/Miscellaneous Scripts/DestructTerrain.cs
+  artifactKey: Guid(3eaf6b0103f789f41a8d05273ff4cda8) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scripts/Miscellaneous Scripts/DestructTerrain.cs using Guid(3eaf6b0103f789f41a8d05273ff4cda8) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '27605517dd3675632dd41cb37e8d9dc3') in 0.010436 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/Scenes/xSodaGobbo/prototypesprites/Geofamily Big Bro/Animation/idle.anim
+  artifactKey: Guid(edac42eab42cacd40b89a6963a7be0f7) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scenes/xSodaGobbo/prototypesprites/Geofamily Big Bro/Animation/idle.anim using Guid(edac42eab42cacd40b89a6963a7be0f7) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '9b1813206df75d045d8d7cba20a62421') in 0.007314 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Assets/Scenes/xSodaGobbo/underground_tilesheet.png
+  artifactKey: Guid(ed99a97449f484941877995ab114b9dd) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scenes/xSodaGobbo/underground_tilesheet.png using Guid(ed99a97449f484941877995ab114b9dd) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '46986dede2db3978361fc8face43ddf2') in 0.043436 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/Scripts/Enemy Scripts/Dio_Dude_Health.cs
+  artifactKey: Guid(6dead4039a6d55248a436946749d82b8) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scripts/Enemy Scripts/Dio_Dude_Health.cs using Guid(6dead4039a6d55248a436946749d82b8) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'f145d98e7e583bdfec6bee542730e7c7') in 0.006519 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/Characters/Enemies/Crystal Dwarf/AirborneFall.anim
+  artifactKey: Guid(c8c5fcf66f379ab4c935557351e62ef5) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Characters/Enemies/Crystal Dwarf/AirborneFall.anim using Guid(c8c5fcf66f379ab4c935557351e62ef5) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'f269b1dddf5af9ea7cecd8182a328f19') in 0.007779 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000177 seconds.
+  path: Assets/Characters/Enemies/Rat/Rat Walk.anim
+  artifactKey: Guid(3f0ac525195d70e41a5a9201349a5100) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Characters/Enemies/Rat/Rat Walk.anim using Guid(3f0ac525195d70e41a5a9201349a5100) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'b888157f655af7b3d9ec701fb1b57376') in 0.007187 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/Scenes/xSodaGobbo/prototypesprites/Geofamily Big Bro/Animation/Geobro Man.controller
+  artifactKey: Guid(d6de411c1d693fa4e8d6b213f55dc526) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scenes/xSodaGobbo/prototypesprites/Geofamily Big Bro/Animation/Geobro Man.controller using Guid(d6de411c1d693fa4e8d6b213f55dc526) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '7413958638a42a0a62aa0b458d73d2f7') in 0.007266 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/Scenes/xSodaGobbo/prototypesprites/Iron Boss/Animations/ironboss_stage1_attack2.anim
+  artifactKey: Guid(c6e562e7035c86743b31869289485d75) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scenes/xSodaGobbo/prototypesprites/Iron Boss/Animations/ironboss_stage1_attack2.anim using Guid(c6e562e7035c86743b31869289485d75) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '0a0ff30f3fd956ec204d32dcf67635cf') in 0.011096 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/Characters/followers/genericgoblin/genericbabyjumpup.anim
+  artifactKey: Guid(e935e74ca522d72418938749d9f0fff0) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Characters/followers/genericgoblin/genericbabyjumpup.anim using Guid(e935e74ca522d72418938749d9f0fff0) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'bdf8a345f45e48b4e717d09207e497e1') in 0.009713 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000343 seconds.
+  path: Assets/Characters/Enemies/Crystal Dwarf/crystaldwarf-Sheet.png
+  artifactKey: Guid(78b2706189fb0984f9187bf0ad5e6558) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Characters/Enemies/Crystal Dwarf/crystaldwarf-Sheet.png using Guid(78b2706189fb0984f9187bf0ad5e6558) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '3fc8a610b6460ad6817a62a3f19109df') in 0.046288 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/Characters/players/Gob/baby gob bullet2.prefab
+  artifactKey: Guid(3ff43819222f5b94397d43c82ebba0d9) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Characters/players/Gob/baby gob bullet2.prefab using Guid(3ff43819222f5b94397d43c82ebba0d9) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '09cef7d4d074f34bb4b22ce6cb4b5b36') in 0.007882 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000319 seconds.
+  path: Assets/Scenes/xSodaGobbo/scorched_pillar4.png
+  artifactKey: Guid(76ff61dd84a40b2449fd752a96dbdfb8) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scenes/xSodaGobbo/scorched_pillar4.png using Guid(76ff61dd84a40b2449fd752a96dbdfb8) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'd4ffd8f51ab3682156c66b52503868a8') in 0.008023 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/Scenes/xSodaGobbo/levelconceptsoda .png
+  artifactKey: Guid(ff5a5981ab820c24c8f59fdad5ad4b5b) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scenes/xSodaGobbo/levelconceptsoda .png using Guid(ff5a5981ab820c24c8f59fdad5ad4b5b) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'ddc0e915358276ae55b36fc7e5b1411c') in 0.008369 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000475 seconds.
+  path: Assets/Scripts/Player Scripts/GobRangedAttack1.cs
+  artifactKey: Guid(30712dfcf4144b54cab084a75adcabac) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scripts/Player Scripts/GobRangedAttack1.cs using Guid(30712dfcf4144b54cab084a75adcabac) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '750ee6c1ddb747f5aff5791730eb0e2d') in 0.007101 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/Characters/followers/genericgoblin/genericbabyshoot.anim
+  artifactKey: Guid(ed39dd87b10f275459acc0167d40a2f3) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Characters/followers/genericgoblin/genericbabyshoot.anim using Guid(ed39dd87b10f275459acc0167d40a2f3) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'ec0c556c2c97a810c7570d8a137163c0') in 0.007692 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Assets/Characters/Enemies/Crystal Dwarf/Walk.anim
+  artifactKey: Guid(50df021f35b091a469436ed34999763a) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Characters/Enemies/Crystal Dwarf/Walk.anim using Guid(50df021f35b091a469436ed34999763a) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'c22834ffc0d486e6888c4371f852c42f') in 0.006133 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/Environment/Cave Tileset/cave1.png
+  artifactKey: Guid(0b9c7484c9369174183d653ce13ec7ab) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Environment/Cave Tileset/cave1.png using Guid(0b9c7484c9369174183d653ce13ec7ab) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'f29c8fe27f9a833d57d20eac6653ac9a') in 0.026061 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/Characters/Enemies/Rat/Rat Idle.anim
+  artifactKey: Guid(2ce689e2aefe87c40a4e07c5736971c2) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Characters/Enemies/Rat/Rat Idle.anim using Guid(2ce689e2aefe87c40a4e07c5736971c2) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '9f3e237a801cc753dfb6a453fedc99c1') in 0.006403 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/Scripts/Miscellaneous Scripts/Parallax.cs
+  artifactKey: Guid(0440a23a08eb04745aba383478ce1872) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scripts/Miscellaneous Scripts/Parallax.cs using Guid(0440a23a08eb04745aba383478ce1872) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'b42b5e59f11e4258c1727847421ec3b3') in 0.007431 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/Characters/Enemies/Fire Spirit/Attack.anim
+  artifactKey: Guid(839c316367e38eb43b39312335ec443b) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Characters/Enemies/Fire Spirit/Attack.anim using Guid(839c316367e38eb43b39312335ec443b) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '7cc308a6c2ff2e43858dcde6542e178b') in 0.007939 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/Characters/Enemies/Golem/JumpLoop.anim
+  artifactKey: Guid(fd57e72eeb4acad4098e463f1152afd9) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Characters/Enemies/Golem/JumpLoop.anim using Guid(fd57e72eeb4acad4098e463f1152afd9) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'e2952ebf09bbddb5edd880ff90789e41') in 0.007233 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/Scenes/xSodaGobbo/scorched_pillar1.png
+  artifactKey: Guid(2edd98720ed58d640a8a021e2af18203) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scenes/xSodaGobbo/scorched_pillar1.png using Guid(2edd98720ed58d640a8a021e2af18203) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '13a9df490c1c77488be4ded8a8a188d1') in 0.008450 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/Materials/Wall Drag.physicsMaterial2D
+  artifactKey: Guid(f64cc7c5bb99fa14fa85f73f67980835) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Materials/Wall Drag.physicsMaterial2D using Guid(f64cc7c5bb99fa14fa85f73f67980835) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '22fbc0a248ad8285587185869b037f24') in 0.009560 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000233 seconds.
+  path: Assets/Scripts/Enemy Scripts/Rat_AI.cs
+  artifactKey: Guid(80a0814c44fa6014ea5d91a4037f8c59) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scripts/Enemy Scripts/Rat_AI.cs using Guid(80a0814c44fa6014ea5d91a4037f8c59) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '48a121917b3cba54af5de02c9ea4091c') in 0.006911 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000164 seconds.
+  path: Assets/Materials/Slide.physicsMaterial2D
+  artifactKey: Guid(d1c328a61c7a3c4449bbef34e226e902) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Materials/Slide.physicsMaterial2D using Guid(d1c328a61c7a3c4449bbef34e226e902) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '75872f4b1b5bcdc13e3a078627942cc8') in 0.009863 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/Jetpack.cs
+  artifactKey: Guid(386050ae7d903bd48954c5aa78733730) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Jetpack.cs using Guid(386050ae7d903bd48954c5aa78733730) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '90b132291f2590243a0e50cd85fc4047') in 0.008042 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/Characters/Enemies/Crystal Ward/crystalwardred-Sheet.png
+  artifactKey: Guid(ef49c1e72ea111f419448f8632b2070d) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Characters/Enemies/Crystal Ward/crystalwardred-Sheet.png using Guid(ef49c1e72ea111f419448f8632b2070d) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'bbf81c0ad22458491643108be01f46e1') in 0.074881 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000340 seconds.
+  path: Assets/Characters/followers/genericgoblin/genericbabycry.anim
+  artifactKey: Guid(02a3f25595ae39d4ea11c620da3f58bd) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Characters/followers/genericgoblin/genericbabycry.anim using Guid(02a3f25595ae39d4ea11c620da3f58bd) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '32811ad38aa156b761328055471636ae') in 0.015703 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/Environment/room_tunnel_1.prefab
+  artifactKey: Guid(7eca216b5da597f44b8260f37ac714f9) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Environment/room_tunnel_1.prefab using Guid(7eca216b5da597f44b8260f37ac714f9) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '6813fb0189f526b969e9fbbebb2d43b6') in 0.009290 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000172 seconds.
+  path: Assets/Environment/Cave Tileset/cave1 palette/cave1_0.asset
+  artifactKey: Guid(4f2dbaf2f80cae34e852447391771285) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Environment/Cave Tileset/cave1 palette/cave1_0.asset using Guid(4f2dbaf2f80cae34e852447391771285) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'edbcb7a8f2d58990ab4cf9d38eefa16e') in 0.008339 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000170 seconds.
+  path: Assets/Characters/Enemies/Strider Shade/Attack.anim
+  artifactKey: Guid(0b01ffa58d473ba4aa8d5a95e4266558) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Characters/Enemies/Strider Shade/Attack.anim using Guid(0b01ffa58d473ba4aa8d5a95e4266558) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '23f944ae5b0a62c0490aa2757126c311') in 0.007409 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000288 seconds.
+  path: Assets/Environment/Cave Tileset/cave1 palette/cave1_13.asset
+  artifactKey: Guid(817bce4743fd25f4d8e5d00b03fd0c84) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Environment/Cave Tileset/cave1 palette/cave1_13.asset using Guid(817bce4743fd25f4d8e5d00b03fd0c84) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '26305ef016b3f829025289b0685af52d') in 0.007886 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000349 seconds.
+  path: Assets/Environment/Cave Tileset/cave01addit.png
+  artifactKey: Guid(d29b3761a3b3cc9448bfb6805066d350) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Environment/Cave Tileset/cave01addit.png using Guid(d29b3761a3b3cc9448bfb6805066d350) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '462e75eb0940b579cbd9872eb8eaba6c') in 0.012847 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000175 seconds.
+  path: Assets/Scenes/xSodaGobbo/scorched_pillar5.png
+  artifactKey: Guid(a8ed0bf8f0cc50f4c997b7beaad36464) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scenes/xSodaGobbo/scorched_pillar5.png using Guid(a8ed0bf8f0cc50f4c997b7beaad36464) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'da8071d272611375574d26cadcb566d3') in 0.008638 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/Characters/players/Gob/baby gob attack particle v2.png
+  artifactKey: Guid(67e2c6bdd1311244d86c2adfb19b1225) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Characters/players/Gob/baby gob attack particle v2.png using Guid(67e2c6bdd1311244d86c2adfb19b1225) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '45d79258b0fda7163c8f6acf4fc58ac3') in 0.012686 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/Scenes/xSodaGobbo/props_plant2.png
+  artifactKey: Guid(062023d342ce06a48b396d94dcd3e8b1) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scenes/xSodaGobbo/props_plant2.png using Guid(062023d342ce06a48b396d94dcd3e8b1) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '78697b1364f7f4313e310e731e468221') in 0.014223 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000143 seconds.
+  path: Assets/Characters/Enemies/Golem/JumpLand.anim
+  artifactKey: Guid(b9ce95c2b51941d4fb53997e883a2f17) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Characters/Enemies/Golem/JumpLand.anim using Guid(b9ce95c2b51941d4fb53997e883a2f17) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'b77f4c90f77e0ca640e02d3c80328954') in 0.007703 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000315 seconds.
+  path: Assets/Environment/Cave Tileset/cave1 palette/cave1_31.asset
+  artifactKey: Guid(1d574244728ee424eb3e5852eeb92a7c) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Environment/Cave Tileset/cave1 palette/cave1_31.asset using Guid(1d574244728ee424eb3e5852eeb92a7c) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '298b6eafa427d8d9f17948197698c044') in 0.009879 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/Characters/Enemies/Dio Dudes/DioCluster Variant.prefab
+  artifactKey: Guid(1082eeb80a6eb0e4588e1b24106849f5) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Characters/Enemies/Dio Dudes/DioCluster Variant.prefab using Guid(1082eeb80a6eb0e4588e1b24106849f5) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '408e956d043207e858852854351c61fa') in 0.009207 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000169 seconds.
+  path: Assets/PressStart2P-vaV7 SDF.asset
+  artifactKey: Guid(25254fd1373701c45836c5029729d1be) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/PressStart2P-vaV7 SDF.asset using Guid(25254fd1373701c45836c5029729d1be) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'ada0ea7645c996de7522f3f8b7a99c02') in 0.017680 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000364 seconds.
+  path: Assets/Characters/Enemies/Bat/bat fall.anim
+  artifactKey: Guid(a5317f4dee67f0d42aa42cbfbb9e5ab2) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Characters/Enemies/Bat/bat fall.anim using Guid(a5317f4dee67f0d42aa42cbfbb9e5ab2) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'fefa5e72fc62b6538c2d9873a98cf309') in 0.007047 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/Scenes/xSodaGobbo/prototypesprites/wyvern/bismuth_wyvern_sprite.png
+  artifactKey: Guid(ae68713d48cf6e3468b20838abf6dcc4) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scenes/xSodaGobbo/prototypesprites/wyvern/bismuth_wyvern_sprite.png using Guid(ae68713d48cf6e3468b20838abf6dcc4) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'd3b4e2acc9d4d2b2ea9cca8b3af1ed8c') in 0.007933 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/Environment/Cave Tileset/Cave1.prefab
+  artifactKey: Guid(c4bbfb9b1ae044f4e9da16e2e467647a) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Environment/Cave Tileset/Cave1.prefab using Guid(c4bbfb9b1ae044f4e9da16e2e467647a) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '3937a72a9d85d7d107cdbcc5c735175d') in 0.007715 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/Environment/Cave Tileset/cave1 palette/cave1_24.asset
+  artifactKey: Guid(af0eb1f1c6e62d1428cee7a72fe44157) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Environment/Cave Tileset/cave1 palette/cave1_24.asset using Guid(af0eb1f1c6e62d1428cee7a72fe44157) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'fabf60fd57f53d26acf0df3dfceccb21') in 0.007032 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000248 seconds.
+  path: Assets/Scenes/xSodaGobbo/sodagobbo.unity
+  artifactKey: Guid(21608915973c96d47828c2821b488c41) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scenes/xSodaGobbo/sodagobbo.unity using Guid(21608915973c96d47828c2821b488c41) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '98496c32b5588ddb3fd903686ac45f6d') in 0.008916 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/Environment/Test Set/testingset1.png
+  artifactKey: Guid(ac07e6cb6e9e31c49a50c88539892ab0) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Environment/Test Set/testingset1.png using Guid(ac07e6cb6e9e31c49a50c88539892ab0) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'e03c050209fa45f5d9ff5e0b364bed2c') in 0.022302 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000161 seconds.
+  path: Assets/Characters/Enemies/Fire Spirit/FastMove.anim
+  artifactKey: Guid(c0084ac6a625aae49a832f5120e1cc79) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Characters/Enemies/Fire Spirit/FastMove.anim using Guid(c0084ac6a625aae49a832f5120e1cc79) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '9ff97ad3f2abfefa626fce2273c7923f') in 0.006776 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/Bat_AI.cs
+  artifactKey: Guid(ceacd296367fb0346b3b39abaf36d9df) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Bat_AI.cs using Guid(ceacd296367fb0346b3b39abaf36d9df) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'a0bc1682790bdc928d3bc34d74a72fef') in 0.007187 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/Environment/Cave Tileset/New Sprite Atlas.spriteatlas
+  artifactKey: Guid(0b3f0ae22d65e254dbf155c0486d8911) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Environment/Cave Tileset/New Sprite Atlas.spriteatlas using Guid(0b3f0ae22d65e254dbf155c0486d8911) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '82ad88ba43d4f5d2ad91e6ac77d8dd97') in 0.008670 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/Scenes/xSodaGobbo/prototypesprites/Geofamily Big Bro/Animation/attack.anim
+  artifactKey: Guid(73609b1293071654bafbd997cc63f265) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scenes/xSodaGobbo/prototypesprites/Geofamily Big Bro/Animation/attack.anim using Guid(73609b1293071654bafbd997cc63f265) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'ab12af30f79e85c3225309a0b6ed0866') in 0.006857 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000309 seconds.
+  path: Assets/Scenes/xSodaGobbo/prototypesprites/Iron Boss/Sprites/iron boss final 2.png
+  artifactKey: Guid(8bd061361dd41e941a2b467e36e33c4f) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scenes/xSodaGobbo/prototypesprites/Iron Boss/Sprites/iron boss final 2.png using Guid(8bd061361dd41e941a2b467e36e33c4f) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'fb5110f6b0f4913e9d23e93966897b6d') in 0.008149 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000171 seconds.
+  path: Assets/Characters/Enemies/Bat/bat fly.anim
+  artifactKey: Guid(500a1928e63c2664ebd44594c1914552) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Characters/Enemies/Bat/bat fly.anim using Guid(500a1928e63c2664ebd44594c1914552) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'd6941c7a70b7bbe7fe53eb706613ff11') in 0.007042 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/Scenes/xSodaGobbo/bg_ironboss_assets.png
+  artifactKey: Guid(f93cd894395be2e4ca54931c04251d02) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scenes/xSodaGobbo/bg_ironboss_assets.png using Guid(f93cd894395be2e4ca54931c04251d02) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'b52cf8c659016dda1497962064f37527') in 0.013779 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/Characters/players/Gob/gob attack aftereffect-Sheet.png
+  artifactKey: Guid(0acff58d5d4c8434db2cbe10014d210c) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Characters/players/Gob/gob attack aftereffect-Sheet.png using Guid(0acff58d5d4c8434db2cbe10014d210c) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '2e18d90976b70eb193c4ef9d9682ba3e') in 0.009743 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/Characters/Enemies/Small Ghost/Moving.anim
+  artifactKey: Guid(c3031147548e56b4a90151a2b8fed874) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Characters/Enemies/Small Ghost/Moving.anim using Guid(c3031147548e56b4a90151a2b8fed874) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '9fa074ab6a6211aadb74a39262709682') in 0.006786 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/Environment/room1prototype.prefab
+  artifactKey: Guid(3303925493521cb45834cf82c2beba83) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Environment/room1prototype.prefab using Guid(3303925493521cb45834cf82c2beba83) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'dc005bc99351df9f8433bccbe90e9523') in 0.006805 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/Environment/Cave Tileset/cave1 palette/cave1_2.asset
+  artifactKey: Guid(d850ffeaba125f448b56d3a92a1cb3c1) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Environment/Cave Tileset/cave1 palette/cave1_2.asset using Guid(d850ffeaba125f448b56d3a92a1cb3c1) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '9332736ddd31751b89f4e90893a2315e') in 0.007071 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000255 seconds.
+  path: Assets/Characters/Enemies/Bat/bat prepare.anim
+  artifactKey: Guid(23beb964a71373747853d20c50e03633) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Characters/Enemies/Bat/bat prepare.anim using Guid(23beb964a71373747853d20c50e03633) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '1b9c4d3ecffe8492dde2a181777ae076') in 0.006568 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/Environment/Cave Tileset/cave1addit2.png
+  artifactKey: Guid(528bb291913ac634bbdc2f00efe0549d) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Environment/Cave Tileset/cave1addit2.png using Guid(528bb291913ac634bbdc2f00efe0549d) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '2f7f026cff934a40eae41e04514f7513') in 0.010820 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000169 seconds.
+  path: Assets/Environment/Cave Tileset/cave1 palette/cave1_26.asset
+  artifactKey: Guid(8bf4fc59b248e62458d00f608edb3230) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Environment/Cave Tileset/cave1 palette/cave1_26.asset using Guid(8bf4fc59b248e62458d00f608edb3230) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '845615576909b34bb5f6306c28710316') in 0.007430 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000161 seconds.
+  path: Assets/Scenes/xSodaGobbo/prototypesprites/Iron Boss/Animations/ironboss_activation.anim
+  artifactKey: Guid(7bf965dffe02c9a49adb5a157ca48675) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scenes/xSodaGobbo/prototypesprites/Iron Boss/Animations/ironboss_activation.anim using Guid(7bf965dffe02c9a49adb5a157ca48675) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'f7e749c937c2b079c0de0d00f54147fc') in 0.007346 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/Characters/Enemies/Bat/bat recover.anim
+  artifactKey: Guid(9c579a87cb12b43488b76e5762108374) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Characters/Enemies/Bat/bat recover.anim using Guid(9c579a87cb12b43488b76e5762108374) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'd73a4b566b4072fddd6281eec192a955') in 0.006509 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/Characters/Enemies/Fire Spirit/FireSpirit.controller
+  artifactKey: Guid(cd75d9588f5e6c5428a40e1fb18d5d83) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Characters/Enemies/Fire Spirit/FireSpirit.controller using Guid(cd75d9588f5e6c5428a40e1fb18d5d83) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '8af0abb8ddbb8d80dbdc1f4ae91231e2') in 0.007618 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/Characters/Enemies/Small Ghost/Attack.anim
+  artifactKey: Guid(069736d1c25f1c44682adcfb88605a19) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Characters/Enemies/Small Ghost/Attack.anim using Guid(069736d1c25f1c44682adcfb88605a19) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '8fb0bd242bf6dcf54e0e365953480bff') in 0.005908 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000217 seconds.
+  path: Assets/Characters/players/Gob/baby gob attack particle spritesheet.png
+  artifactKey: Guid(a9b087af77032d6439ceefd27110f5b2) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Characters/players/Gob/baby gob attack particle spritesheet.png using Guid(a9b087af77032d6439ceefd27110f5b2) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '2228d070f4785dbc1227486bccbc940c') in 0.012591 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/Characters/Enemies/Strider Shade/Walk.anim
+  artifactKey: Guid(ee094024639ece04ba9d2c0b1fefa1bc) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Characters/Enemies/Strider Shade/Walk.anim using Guid(ee094024639ece04ba9d2c0b1fefa1bc) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'b07c7194dabd96416785fcdee291586b') in 0.005958 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/Environment/Cave Tileset/cave1 palette/cave1_33.asset
+  artifactKey: Guid(d86a9278fbf75ad41ba5a5b5acad6624) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Environment/Cave Tileset/cave1 palette/cave1_33.asset using Guid(d86a9278fbf75ad41ba5a5b5acad6624) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'f49f82ed2cd079e48501bf2cb3405216') in 0.007177 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000146 seconds.
+  path: Assets/Scenes/xSodaGobbo/prototypesprites/Geofamily Big Bro/Sprite/geobro_man_separated.png
+  artifactKey: Guid(a288e15bb1fda3542bfb9cfd495890ca) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scenes/xSodaGobbo/prototypesprites/Geofamily Big Bro/Sprite/geobro_man_separated.png using Guid(a288e15bb1fda3542bfb9cfd495890ca) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'f3be77b4ea3a5e5bf559b12e81a31534') in 0.009354 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000165 seconds.
+  path: Assets/Scenes/xSodaGobbo/scorched_pillar2.png
+  artifactKey: Guid(64377a4075447fa4789b232684a96b8b) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scenes/xSodaGobbo/scorched_pillar2.png using Guid(64377a4075447fa4789b232684a96b8b) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '542f2c3dd6c02c9785e2761624f1c5d6') in 0.008449 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/Characters/Enemies/Strider Shade/strider-Sheet.png
+  artifactKey: Guid(4d537d3dcd3cd754d9235bbefccf3cbe) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Characters/Enemies/Strider Shade/strider-Sheet.png using Guid(4d537d3dcd3cd754d9235bbefccf3cbe) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '1ae00f3236a4ea68bf0703bcd9af8deb') in 0.015046 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/Characters/Enemies/Bat/Bat.controller
+  artifactKey: Guid(d8eccb0b4f2fc66479c66178922ab8ff) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Characters/Enemies/Bat/Bat.controller using Guid(d8eccb0b4f2fc66479c66178922ab8ff) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'd15d025fa27ee8d9af6adb2a1b061604') in 0.007469 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/Environment/Cave Tileset/cave1 palette/cave1_14.asset
+  artifactKey: Guid(240f5271757c4514a9cbf38310efbf19) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Environment/Cave Tileset/cave1 palette/cave1_14.asset using Guid(240f5271757c4514a9cbf38310efbf19) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '3236d123b1c483e238b4856a26a974f1') in 0.007822 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/Scenes/xSodaGobbo/prototypesprites/icespiker/amazonite_icespiker_sprite.png
+  artifactKey: Guid(458e382570d9a8f41bafe0139cbb2405) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scenes/xSodaGobbo/prototypesprites/icespiker/amazonite_icespiker_sprite.png using Guid(458e382570d9a8f41bafe0139cbb2405) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'ac463ef4507bac00bd1eb17e81d47375') in 0.009988 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/Test/Health Bar Canvas.prefab
+  artifactKey: Guid(ea9abe21790fdeb418590caa7b6daa1c) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Test/Health Bar Canvas.prefab using Guid(ea9abe21790fdeb418590caa7b6daa1c) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '28ad71828044a39704899455324cf6c8') in 0.007481 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/Scripts/Player Scripts/playerHealth.cs
+  artifactKey: Guid(a137667323f93ce4fb1320beffb9b136) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scripts/Player Scripts/playerHealth.cs using Guid(a137667323f93ce4fb1320beffb9b136) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '339ea33ccbc3021d0ca9b858f6f6e254') in 0.007932 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/Scripts/Miscellaneous Scripts/HealthBar.cs
+  artifactKey: Guid(403535d7500faad4bb9310e5a2905401) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scripts/Miscellaneous Scripts/HealthBar.cs using Guid(403535d7500faad4bb9310e5a2905401) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'dea2ca9d4428c3f129c02d0e538647a0') in 0.007787 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/Characters/players/Gob/baby gob jump down.anim
+  artifactKey: Guid(1c9cf9cc596d50a44857cdcdb721cf0c) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Characters/players/Gob/baby gob jump down.anim using Guid(1c9cf9cc596d50a44857cdcdb721cf0c) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '5ca45d6cb2f8aff6a4ecd5c39235f87b') in 0.008731 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/Scenes/xSodaGobbo/underground_tilesheet 1.png
+  artifactKey: Guid(a1e17c559752ad7429970f471fd1befe) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scenes/xSodaGobbo/underground_tilesheet 1.png using Guid(a1e17c559752ad7429970f471fd1befe) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '4271265cdffb800b936d8069c5a0dde2') in 0.074564 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000320 seconds.
+  path: Assets/Scenes/xSodaGobbo/black_transition_tilesheet.png
+  artifactKey: Guid(d99ef77f0d04cb846b013809d4964d36) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scenes/xSodaGobbo/black_transition_tilesheet.png using Guid(d99ef77f0d04cb846b013809d4964d36) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '1ab51b06998c142b7d48d7942103d0e3') in 0.018913 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000307 seconds.
+  path: Assets/Characters/Enemies/Golem/Walking.anim
+  artifactKey: Guid(ce6cd9638e7230f4aa432e46aa9ec7a8) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Characters/Enemies/Golem/Walking.anim using Guid(ce6cd9638e7230f4aa432e46aa9ec7a8) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '5b1656c938bbf61e858d0acb934de8e2') in 0.007309 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000232 seconds.
+  path: Assets/Scenes/Main Menu.unity
+  artifactKey: Guid(2908a606bfc2c7948b14d322a8a0c5a5) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scenes/Main Menu.unity using Guid(2908a606bfc2c7948b14d322a8a0c5a5) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '20a77087c7fc7a0caa1fa08f9bad5631') in 0.009288 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/Scripts/Enemy Scripts/EnemyHealth.cs
+  artifactKey: Guid(20320767b67c86c408972d8519ddf6c4) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scripts/Enemy Scripts/EnemyHealth.cs using Guid(20320767b67c86c408972d8519ddf6c4) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '62112e8235ca7cb79eaa63e9eed14196') in 0.008749 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000560 seconds.
+  path: Assets/Characters/Enemies/Crystal Dwarf/Deploy.anim
+  artifactKey: Guid(4207f0e8672c8764b9cd6b79998434aa) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Characters/Enemies/Crystal Dwarf/Deploy.anim using Guid(4207f0e8672c8764b9cd6b79998434aa) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '1e77dbc3f31203d15fe59a6ed7f900c6') in 0.010649 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000290 seconds.
+  path: Assets/DioDude_death.cs
+  artifactKey: Guid(13b49d084023c65429824496f9526a8a) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/DioDude_death.cs using Guid(13b49d084023c65429824496f9526a8a) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '594186052414402c30e5c5cdb5c0be71') in 0.008897 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000679 seconds.
+  path: Assets/Environment/Cave Tileset/Cave Terrain Rule.asset
+  artifactKey: Guid(2f7ce94b106da964c84be5a1f2b75673) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Environment/Cave Tileset/Cave Terrain Rule.asset using Guid(2f7ce94b106da964c84be5a1f2b75673) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '7c0e649b59a56d8d69d71bc8246395fd') in 0.016560 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000308 seconds.
+  path: Assets/Environment/Cave Tileset/cave1 palette/cave1_6.asset
+  artifactKey: Guid(d9d2ba11764b905408f081c052c70b09) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Environment/Cave Tileset/cave1 palette/cave1_6.asset using Guid(d9d2ba11764b905408f081c052c70b09) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '52821e316e962ef05c50a61ed5fc29e9') in 0.008156 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000164 seconds.
+  path: Assets/Environment/Cave Tileset/cave1 palette/cave1_8.asset
+  artifactKey: Guid(7b00e84708bee6c4e99adb16bdbed95d) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Environment/Cave Tileset/cave1 palette/cave1_8.asset using Guid(7b00e84708bee6c4e99adb16bdbed95d) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '0f309b5a81278bae5caf4ce3eb290828') in 0.011832 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/Scenes/xSodaGobbo/prototypesprites/Iron Boss/Sprites/iron boss final.png
+  artifactKey: Guid(b9d3b916ced15324c8ec4701f4faa114) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scenes/xSodaGobbo/prototypesprites/Iron Boss/Sprites/iron boss final.png using Guid(b9d3b916ced15324c8ec4701f4faa114) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '22324b4522be64dac72a39df240ea8a3') in 0.015058 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000361 seconds.
+  path: Assets/Characters/players/Gob/baby gob bullet1.anim
+  artifactKey: Guid(c4b2a6ff9d941d04dbeb1272fed2cbe1) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Characters/players/Gob/baby gob bullet1.anim using Guid(c4b2a6ff9d941d04dbeb1272fed2cbe1) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '93760a4fd19fa1508c9f1f78d69f0af7') in 0.028928 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/Characters/players/Gob/baby gob idle.anim
+  artifactKey: Guid(acb6a8a108440ca4185fc01d65bf5ead) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Characters/players/Gob/baby gob idle.anim using Guid(acb6a8a108440ca4185fc01d65bf5ead) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '4da081b01c8d1297d904268f4bd317a1') in 0.007972 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000158 seconds.
+  path: Assets/Environment/Cave Tileset/cave1 palette/cave1_25.asset
+  artifactKey: Guid(2c38208b518760f4997d66e17ab03be9) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Environment/Cave Tileset/cave1 palette/cave1_25.asset using Guid(2c38208b518760f4997d66e17ab03be9) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'd23548f63156821f801e99afa54f7a0e') in 0.007888 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000153 seconds.
+  path: Assets/Characters/players/Gob/gob bullet1 aftereffect.controller
+  artifactKey: Guid(b4f16f65f56a46442babdcaf0c9051b0) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Characters/players/Gob/gob bullet1 aftereffect.controller using Guid(b4f16f65f56a46442babdcaf0c9051b0) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '2c04d61099564326bdd646ccd4587afb') in 0.008085 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/Environment/room96x96template.prefab
+  artifactKey: Guid(0decb6640b617904f8a215e73357e9e7) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Environment/room96x96template.prefab using Guid(0decb6640b617904f8a215e73357e9e7) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'f687b680cae17171cbb944e7b61112f9') in 0.007283 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Assets/Scenes/xSodaGobbo/prototypesprites/Iron Boss/Animations/ironboss_stage2_attack2.anim
+  artifactKey: Guid(08dc9f0c44b22af41b458453ffc5eb25) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scenes/xSodaGobbo/prototypesprites/Iron Boss/Animations/ironboss_stage2_attack2.anim using Guid(08dc9f0c44b22af41b458453ffc5eb25) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '3a7e34f942807f29e2185ba863d93cf2') in 0.009135 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000146 seconds.
+  path: Assets/Characters/players/Gob/baby gob jump up.anim
+  artifactKey: Guid(e664d912c061b9f40a8b7a5c3f0e070c) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Characters/players/Gob/baby gob jump up.anim using Guid(e664d912c061b9f40a8b7a5c3f0e070c) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '31751417e424e8d2de18aafc0c5441a9') in 0.007102 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/Environment/Cave Tileset/cave1 palette/cave1_30.asset
+  artifactKey: Guid(934791f02d5efd049b1add42849bc456) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Environment/Cave Tileset/cave1 palette/cave1_30.asset using Guid(934791f02d5efd049b1add42849bc456) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '28f90ff4f943480e24b91fee78d2c611') in 0.008564 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/Characters/Enemies/Dio Dudes/MiniDiodude.prefab
+  artifactKey: Guid(c141d23d3fd557b49bc90ab44e002849) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Characters/Enemies/Dio Dudes/MiniDiodude.prefab using Guid(c141d23d3fd557b49bc90ab44e002849) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '03236557c7e5f2391f35e51d287f1ad9') in 0.006959 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000175 seconds.
+  path: Assets/Characters/Enemies/Golem/golembig-Sheet.png
+  artifactKey: Guid(3fd19316c23f64a4da72278edaedba04) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Characters/Enemies/Golem/golembig-Sheet.png using Guid(3fd19316c23f64a4da72278edaedba04) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '95a774c5fd8b97afa6ed9616b9d4a449') in 0.026894 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/Characters/Enemies/Strider Shade/StriderShade.controller
+  artifactKey: Guid(deb866d3448a2a849b367204b4b5bf67) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Characters/Enemies/Strider Shade/StriderShade.controller using Guid(deb866d3448a2a849b367204b4b5bf67) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'd066bf19abb51136b536e1dabb8978ef') in 0.008326 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/Environment/Cave Tileset/cave1 palette/cave1_21.asset
+  artifactKey: Guid(092dc958955c6ad48912f94922a4bbc2) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Environment/Cave Tileset/cave1 palette/cave1_21.asset using Guid(092dc958955c6ad48912f94922a4bbc2) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '8a689a2a4e3e75fbcef97400ee22ebc0') in 0.007795 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/Scenes/xSodaGobbo/prototypesprites/Iron Boss/Animations/ironboss_idle.anim
+  artifactKey: Guid(7b16f65b1f2b5a7408c4d72354a6c6d2) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scenes/xSodaGobbo/prototypesprites/Iron Boss/Animations/ironboss_idle.anim using Guid(7b16f65b1f2b5a7408c4d72354a6c6d2) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '188abfa8dec11263f2acd6864d21d7b3') in 0.007294 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000144 seconds.
+  path: Assets/Scripts/Miscellaneous Scripts/EnemySpawner.cs
+  artifactKey: Guid(86d9fddb1ca6eae44903ae598c3a2f04) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scripts/Miscellaneous Scripts/EnemySpawner.cs using Guid(86d9fddb1ca6eae44903ae598c3a2f04) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '6f2ad671d980f3fbdc3583953098c3c6') in 0.007597 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000248 seconds.
+  path: Assets/Characters/Enemies/Crystal Ward/CrystalWard.controller
+  artifactKey: Guid(ac045e72ac5fac741a2ff2788f4312c1) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Characters/Enemies/Crystal Ward/CrystalWard.controller using Guid(ac045e72ac5fac741a2ff2788f4312c1) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '1bbba1557bab78d42f8ab240e138ae82') in 0.007365 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/Environment/Cave Tileset/cave1 palette/cave1_34.asset
+  artifactKey: Guid(88c66fc1012571645870b3f7aa3a8bd8) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Environment/Cave Tileset/cave1 palette/cave1_34.asset using Guid(88c66fc1012571645870b3f7aa3a8bd8) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'b2189f93b87f1b257e08128a2fe1e3d8') in 0.006948 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/Environment/Cave Tileset/cave01plax-Sheet.png
+  artifactKey: Guid(974ec39041b01f246b9fe42e0c9bc2fc) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Environment/Cave Tileset/cave01plax-Sheet.png using Guid(974ec39041b01f246b9fe42e0c9bc2fc) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'df5031c1132037b0515ce650c164a3f0') in 0.012464 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/Environment/Cave Tileset/cave1 palette/cave1_3.asset
+  artifactKey: Guid(98bec5d4efda9ad4688b606315b500e7) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Environment/Cave Tileset/cave1 palette/cave1_3.asset using Guid(98bec5d4efda9ad4688b606315b500e7) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'd75e0593f4641f7d7261dd58e37b0033') in 0.008534 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/Materials/Half bounce.physicsMaterial2D
+  artifactKey: Guid(c3c287876bd55944fbb75dc45c73195a) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Materials/Half bounce.physicsMaterial2D using Guid(c3c287876bd55944fbb75dc45c73195a) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'cbd91c3297dcf9cef0e145b729ca58c3') in 0.011686 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000354 seconds.
+  path: Assets/Characters/followers/genericgoblin/genericbaby1.png
+  artifactKey: Guid(77aa23a91f910994e8c3d2a7978b9c09) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Characters/followers/genericgoblin/genericbaby1.png using Guid(77aa23a91f910994e8c3d2a7978b9c09) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '325a3bfeaa5b9c3642a9eb86321448b8') in 0.021064 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000467 seconds.
+  path: Assets/Characters/Enemies/Crystal Ward/Spawn.anim
+  artifactKey: Guid(db0e1e669a8f6444fb9563efe662c437) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Characters/Enemies/Crystal Ward/Spawn.anim using Guid(db0e1e669a8f6444fb9563efe662c437) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'ac1f20b28f1cfde8f88e45911a230444') in 0.009099 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000348 seconds.
+  path: Assets/Environment/Cave Tileset/cave1 palette/cave1_23.asset
+  artifactKey: Guid(9c2c20ae55b338f4c9f40b8c2187552c) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Environment/Cave Tileset/cave1 palette/cave1_23.asset using Guid(9c2c20ae55b338f4c9f40b8c2187552c) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '18a2ba0161ae805ffd0ebe6b6b24777f') in 0.010113 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000331 seconds.
+  path: Assets/Scenes/xSodaGobbo/props_grass.png
+  artifactKey: Guid(82914b17202020844a6f6837692eab4c) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scenes/xSodaGobbo/props_grass.png using Guid(82914b17202020844a6f6837692eab4c) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '77f0aba7153bd8d5c8f3a1fd3c2fa300') in 0.017186 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/Environment/Cave Tileset/cave1 palette/cave1_22.asset
+  artifactKey: Guid(8568d95a47c6d0e489c1d5ea119da9e4) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Environment/Cave Tileset/cave1 palette/cave1_22.asset using Guid(8568d95a47c6d0e489c1d5ea119da9e4) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'e9a80f1afa060f2e56f9c4d3474f792c') in 0.007609 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/Scenes/xSodaGobbo/prototypesprites/Iron Boss/Animations/iron boss final 2.controller
+  artifactKey: Guid(bc357684a977d2b44a22509643a8f885) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scenes/xSodaGobbo/prototypesprites/Iron Boss/Animations/iron boss final 2.controller using Guid(bc357684a977d2b44a22509643a8f885) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '2c7e5d5d13f9ff424bdfece7430d247c') in 0.006420 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/Characters/Enemies/Fire Spirit/golemfirespirit-Sheet.png
+  artifactKey: Guid(6d8480c315789004891aa84e8b4de745) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Characters/Enemies/Fire Spirit/golemfirespirit-Sheet.png using Guid(6d8480c315789004891aa84e8b4de745) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '616a55bcb9448597c13797528baef3ba') in 0.022268 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/Scripts/Player Scripts/PlayerMovement.cs
+  artifactKey: Guid(83345cffa622fde45a0e93af75c6e459) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scripts/Player Scripts/PlayerMovement.cs using Guid(83345cffa622fde45a0e93af75c6e459) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'aab8b50f7457a77f46a84bfd6dc1cc36') in 0.006884 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/Characters/Enemies/Rat/Rat.controller
+  artifactKey: Guid(4cc9be478e806774f9791439edad757c) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Characters/Enemies/Rat/Rat.controller using Guid(4cc9be478e806774f9791439edad757c) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'c51fb6e168d1a307736f380f1e622ce7') in 0.007281 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Assets/Scripts/Player Scripts/CharacterController2D.cs
+  artifactKey: Guid(7f214970f00a6a34d88a419ca0be06cf) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scripts/Player Scripts/CharacterController2D.cs using Guid(7f214970f00a6a34d88a419ca0be06cf) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'bcc89b80e471cf9341097da7405f8770') in 0.008103 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/Characters/followers/genericgoblin/genericbabyjumpdown.anim
+  artifactKey: Guid(e47d160e5cabaab4381d5ccd4dfcc240) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Characters/followers/genericgoblin/genericbabyjumpdown.anim using Guid(e47d160e5cabaab4381d5ccd4dfcc240) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'e7a1daa576c1f426e9c88ef881d6554f') in 0.008074 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000172 seconds.
+  path: Assets/Scripts/Enemy Scripts/MultiplyAtDeath.cs
+  artifactKey: Guid(6a4a0f3205247124bb2435830d077e03) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scripts/Enemy Scripts/MultiplyAtDeath.cs using Guid(6a4a0f3205247124bb2435830d077e03) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '90aa66737e33e2e2afa2067b2b07283c') in 0.007750 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/Characters/players/Gob/baby gob spritesheet.png
+  artifactKey: Guid(9c01652068e80a34d8faee371eb932e6) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Characters/players/Gob/baby gob spritesheet.png using Guid(9c01652068e80a34d8faee371eb932e6) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '034d9ed899413a8cd8b981dbdb23db21') in 0.020948 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/Characters/Enemies/Crystal Dwarf/Landing.anim
+  artifactKey: Guid(ca03c0b33a11150468c87af545dc03a9) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Characters/Enemies/Crystal Dwarf/Landing.anim using Guid(ca03c0b33a11150468c87af545dc03a9) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '1ba9f9dcaa07c2feebacc0a83ea18693') in 0.006579 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000155 seconds.
+  path: Assets/Characters/Enemies/Small Ghost/ghostsmall-Sheet.png
+  artifactKey: Guid(49426c23343dc32418a7e4467f6f396b) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Characters/Enemies/Small Ghost/ghostsmall-Sheet.png using Guid(49426c23343dc32418a7e4467f6f396b) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'e4b2500dbd4463e3327e0e11d39e3b20') in 0.020321 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/Environment/room_zigzag1.prefab
+  artifactKey: Guid(9778dba1e4e89b749b5238f5f38410fb) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Environment/room_zigzag1.prefab using Guid(9778dba1e4e89b749b5238f5f38410fb) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '729e93315da48eab7b1a521f9e22468c') in 0.008036 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/Scenes/xSodaGobbo/bg_scroched_tileset.png
+  artifactKey: Guid(c6e699eccc297a44a882475d4cf151d5) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scenes/xSodaGobbo/bg_scroched_tileset.png using Guid(c6e699eccc297a44a882475d4cf151d5) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '7bddcdf531d8a172d2f8424e2b9b96a4') in 0.019208 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000299 seconds.
+  path: Assets/Environment/Cave Tileset/cave1 palette/cave1_1.asset
+  artifactKey: Guid(66faecbc13cfa76488e940ce680697a3) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Environment/Cave Tileset/cave1 palette/cave1_1.asset using Guid(66faecbc13cfa76488e940ce680697a3) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '8aa01c383a48f39fa74cb50d288c93ac') in 0.008891 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'c3858a8001e9f77f371fe992c0637a1e') in 0.007379 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/Scripts/Miscellaneous Scripts/DestroyAfterAnimate.cs
+  artifactKey: Guid(13718480936ce4d47b9c3f2b18bddf1c) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scripts/Miscellaneous Scripts/DestroyAfterAnimate.cs using Guid(13718480936ce4d47b9c3f2b18bddf1c) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'd31c0c7a10ac97a2b136fa30a61fe2da') in 0.008133 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000294 seconds.
+  path: Assets/Scripts/Player Scripts/bullet.cs
+  artifactKey: Guid(3044c31d52794ad4ca8f5a87ea09f3f9) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scripts/Player Scripts/bullet.cs using Guid(3044c31d52794ad4ca8f5a87ea09f3f9) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'f55670154f3c9b9f6e810d0b3ec81607') in 0.006626 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000145 seconds.
+  path: Assets/Characters/Enemies/Crystal Dwarf/crystaldwarf-Sheet_0.controller
+  artifactKey: Guid(caa94056122da51408ce5accbd665919) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Characters/Enemies/Crystal Dwarf/crystaldwarf-Sheet_0.controller using Guid(caa94056122da51408ce5accbd665919) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '2fae5fa8f3a993581331809e3d8d1ae5') in 0.007136 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/Characters/players/Gob/baby gob bullet1.controller
+  artifactKey: Guid(1de1d5769af2e33489da453d261a5308) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Characters/players/Gob/baby gob bullet1.controller using Guid(1de1d5769af2e33489da453d261a5308) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '84fa837ef3c041974e5f2e93e96c475b') in 0.023453 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000748 seconds.
+  path: Assets/Scenes/xSodaGobbo/prototypesprites/Iron Boss/Animations/ironboss_inactive_state.anim
+  artifactKey: Guid(1b17554b030579844ae029812f47972d) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scenes/xSodaGobbo/prototypesprites/Iron Boss/Animations/ironboss_inactive_state.anim using Guid(1b17554b030579844ae029812f47972d) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '2361a36bf60e5006736d4a93eff00ef0') in 0.027386 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/Environment/Cave Tileset/cave1 palette/cave1_28.asset
+  artifactKey: Guid(0a9af0508fef98942b30fa6ed766099e) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Environment/Cave Tileset/cave1 palette/cave1_28.asset using Guid(0a9af0508fef98942b30fa6ed766099e) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '59601f32560696fc6d05b8ddb8ef00a9') in 0.023303 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/Characters/Enemies/Dio Dudes/DioDude.prefab
+  artifactKey: Guid(3875173f5ee08f04095ea80de2e6abb2) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Characters/Enemies/Dio Dudes/DioDude.prefab using Guid(3875173f5ee08f04095ea80de2e6abb2) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '59e9b7c0dc7e235f4621ae71119625a6') in 0.006235 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/Characters/players/Gob/baby gob bullet1 aftereffect1.anim
+  artifactKey: Guid(b126155330a39a44c8a7f7775e01419c) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Characters/players/Gob/baby gob bullet1 aftereffect1.anim using Guid(b126155330a39a44c8a7f7775e01419c) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'bddf92c82ae497db11af45a89217c9c6') in 0.007367 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/Environment/Cave Tileset/cave1 palette/cave1_12.asset
+  artifactKey: Guid(1681053cd5d2f7b4e848ea2062d0ead3) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Environment/Cave Tileset/cave1 palette/cave1_12.asset using Guid(1681053cd5d2f7b4e848ea2062d0ead3) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '86073b3a98d515b737930f02789abcaf') in 0.007494 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/PressStart2P-vaV7.ttf
+  artifactKey: Guid(0e9a71450eaec0443a8ebfa4e30c0be3) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/PressStart2P-vaV7.ttf using Guid(0e9a71450eaec0443a8ebfa4e30c0be3) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'c1d482e74a83f388602b5d73609712cf') in 0.009239 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000169 seconds.
+  path: Assets/Scenes/xSodaGobbo/bg_grasshill_collection.png
+  artifactKey: Guid(eb47b2b346fa36e4db6876c173e4817b) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scenes/xSodaGobbo/bg_grasshill_collection.png using Guid(eb47b2b346fa36e4db6876c173e4817b) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '6f582d977c030ce1469e536f8939fc53') in 0.017387 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/Scenes/xSodaGobbo/scorched_pillar3.png
+  artifactKey: Guid(05cee2c325cfba34eb0ab7485095f6db) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scenes/xSodaGobbo/scorched_pillar3.png using Guid(05cee2c325cfba34eb0ab7485095f6db) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'fa9d2043ddc34627ec858a3ca903d5b6') in 0.007300 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000168 seconds.
+  path: Assets/Characters/Enemies/Rat/Rat Jump Down.anim
+  artifactKey: Guid(e066d4a2763dcbe47ac352d6bfb88d25) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Characters/Enemies/Rat/Rat Jump Down.anim using Guid(e066d4a2763dcbe47ac352d6bfb88d25) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '960c6ae18eba91f21b9fda4c71738dfa') in 0.007089 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/Environment/room_tunnel_2.prefab
+  artifactKey: Guid(c33626d4c72dd3d45b3bc9dc116f3b3c) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Environment/room_tunnel_2.prefab using Guid(c33626d4c72dd3d45b3bc9dc116f3b3c) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '5ef4ec651c63e645e69ea1deca86ce56') in 0.007066 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/Scripts/Miscellaneous Scripts/Flip.cs
+  artifactKey: Guid(b2334f85c6a626d49b7aeedf23e316c5) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scripts/Miscellaneous Scripts/Flip.cs using Guid(b2334f85c6a626d49b7aeedf23e316c5) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'edb50c9d0f44a354c56d07d131d9c72e') in 0.007265 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/Environment/Cave Tileset/cave1 palette/cave1_20.asset
+  artifactKey: Guid(0990ac27c5a5f4749b8dde80c99a3704) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Environment/Cave Tileset/cave1 palette/cave1_20.asset using Guid(0990ac27c5a5f4749b8dde80c99a3704) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'f9bb97e720d2a7e957ade8d0f0975e38') in 0.007502 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000174 seconds.
+  path: Assets/Characters/Enemies/Crystal Dwarf/AirborneUp.anim
+  artifactKey: Guid(688ddf7bce12dd74cbc4bf00c75600d6) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Characters/Enemies/Crystal Dwarf/AirborneUp.anim using Guid(688ddf7bce12dd74cbc4bf00c75600d6) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'b1afccb044798614d2fa98cb6b233892') in 0.006761 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/Environment/Cave Tileset/cave01color.png
+  artifactKey: Guid(e324eb7778a80554c9b64a794c53cb2f) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Environment/Cave Tileset/cave01color.png using Guid(e324eb7778a80554c9b64a794c53cb2f) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '53f9b551fa09a490fb0744c34f195d7a') in 0.007946 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/Scenes/xSodaGobbo/levelconceptsoda .aseprite
+  artifactKey: Guid(67065149622e3fa4c988fa703db5c80e) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scenes/xSodaGobbo/levelconceptsoda .aseprite using Guid(67065149622e3fa4c988fa703db5c80e) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'e195ba51c8a7a22dc540b3d109202ed8') in 0.006249 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Assets/Scenes/xSodaGobbo/prototypesprites/Iron Boss/Animations/ironboss_stage1-2_transitionattack.anim
+  artifactKey: Guid(f25f357991bbf7343a0847357d64ff55) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scenes/xSodaGobbo/prototypesprites/Iron Boss/Animations/ironboss_stage1-2_transitionattack.anim using Guid(f25f357991bbf7343a0847357d64ff55) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '209a3e08b1cb1f8d94b88cbf0295b512') in 0.008628 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000176 seconds.
+  path: Assets/Environment/Cave Tileset/cave1 palette/cave1_10.asset
+  artifactKey: Guid(5e543c885b7bce44384261b38fb94e6c) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Environment/Cave Tileset/cave1 palette/cave1_10.asset using Guid(5e543c885b7bce44384261b38fb94e6c) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '9822f29f5a6a7687d7858b771131d760') in 0.009310 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000161 seconds.
+  path: Assets/Prefabs/effectlight.prefab
+  artifactKey: Guid(7f68e8307e574d84690d483da612dc1f) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Prefabs/effectlight.prefab using Guid(7f68e8307e574d84690d483da612dc1f) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'a456c9c40f20a911076abc2799b38b12') in 0.007761 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000355 seconds.
+  path: Assets/Scenes/xSodaGobbo/prototypesprites/Iron Boss/Animations/ironboss_stage2_attack1.anim
+  artifactKey: Guid(10bc3770da72ebd44bf1af386a68469b) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scenes/xSodaGobbo/prototypesprites/Iron Boss/Animations/ironboss_stage2_attack1.anim using Guid(10bc3770da72ebd44bf1af386a68469b) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '445b25d8812876b1d8423b91f5446db1') in 0.010553 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000398 seconds.
+  path: Assets/Scenes/xSodaGobbo/prototypesprites/Iron Boss/Animations/ironboss_stage1_attack3.anim
+  artifactKey: Guid(62f89a63bd3f55442bd93ce5f807fe29) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scenes/xSodaGobbo/prototypesprites/Iron Boss/Animations/ironboss_stage1_attack3.anim using Guid(62f89a63bd3f55442bd93ce5f807fe29) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '523ede176e53776359b3a0e7fb125785') in 0.015772 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/Characters/players/Gob/gob bullet1 aftereffect.prefab
+  artifactKey: Guid(f26168bcfc9e4034582213952e0eb827) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Characters/players/Gob/gob bullet1 aftereffect.prefab using Guid(f26168bcfc9e4034582213952e0eb827) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '6cde77a3dcff7d9630dd373738c7a072') in 0.009943 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/Scripts/Enemy Scripts/Attack.cs
+  artifactKey: Guid(425f1d1e1ad2bee40a648d6f1334f682) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scripts/Enemy Scripts/Attack.cs using Guid(425f1d1e1ad2bee40a648d6f1334f682) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'e8fbad23bed097b86ef936bbcbcece69') in 0.009852 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000182 seconds.
+  path: Assets/Characters/Enemies/Rat/Rat.prefab
+  artifactKey: Guid(ebc2fda77c3cca9458adb988e5843d15) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Characters/Enemies/Rat/Rat.prefab using Guid(ebc2fda77c3cca9458adb988e5843d15) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '7898d2bddcd91279dd865cd03b7feea9') in 0.008890 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/Characters/Enemies/Rat/rat-Sheet.png
+  artifactKey: Guid(c04a814f9fb59b74b96b011cb47cc8d4) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Characters/Enemies/Rat/rat-Sheet.png using Guid(c04a814f9fb59b74b96b011cb47cc8d4) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '736acd24f770265c16ff444921c8a27c') in 0.022395 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/Environment/Cave Tileset/cave1 palette/cave1_9.asset
+  artifactKey: Guid(e4916df90585fcb4ab379a279e739ea6) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Environment/Cave Tileset/cave1 palette/cave1_9.asset using Guid(e4916df90585fcb4ab379a279e739ea6) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '57b9f6bba90d9dff21984c0b16fcd2d9') in 0.008315 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/Scenes/xSodaGobbo/wall_tilesheet.png
+  artifactKey: Guid(0c46906f8e21d1b49b8711930863fdc2) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scenes/xSodaGobbo/wall_tilesheet.png using Guid(0c46906f8e21d1b49b8711930863fdc2) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '076019368721024432bc22e19ddc0aee') in 0.022330 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/Environment/Cave Tileset/cave1 palette/cave1_15.asset
+  artifactKey: Guid(c9c51a7ae5bd2e94c93dd5bbfbd8d360) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Environment/Cave Tileset/cave1 palette/cave1_15.asset using Guid(c9c51a7ae5bd2e94c93dd5bbfbd8d360) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '0762dd272c36e3360041a2703b6dd2b9') in 0.007308 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/Scenes/xSodaGobbo/prototypesprites/Iron Boss/Sprites/iron boss-platform.png
+  artifactKey: Guid(9ac6f22d5b63c594eab47596df80cba6) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scenes/xSodaGobbo/prototypesprites/Iron Boss/Sprites/iron boss-platform.png using Guid(9ac6f22d5b63c594eab47596df80cba6) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '7dee74820f065774811d2898c15bfc3c') in 0.014526 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/Scenes/xSodaGobbo/prototypesprites/Geofamily Big Bro/Animation/death.anim
+  artifactKey: Guid(b1bc2d4c261d49740974e0a039c00945) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scenes/xSodaGobbo/prototypesprites/Geofamily Big Bro/Animation/death.anim using Guid(b1bc2d4c261d49740974e0a039c00945) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '016245a8e8a3451f5bee216fbc3d22d4') in 0.006474 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000338 seconds.
+  path: Assets/Scripts/Miscellaneous Scripts/AttachGameObjectsToParticles.cs
+  artifactKey: Guid(e1a5ee8f9d33a35489b108e24bcbdd86) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scripts/Miscellaneous Scripts/AttachGameObjectsToParticles.cs using Guid(e1a5ee8f9d33a35489b108e24bcbdd86) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'e8779f12045eeaf809bb93f228b04dad') in 0.007374 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/Environment/Cave Tileset/cave1 palette/cave1_11.asset
+  artifactKey: Guid(0e39a088676ded04f9d4954d0c17c526) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Environment/Cave Tileset/cave1 palette/cave1_11.asset using Guid(0e39a088676ded04f9d4954d0c17c526) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '4d0d26e5811254a34d84b538383fac50') in 0.006736 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000156 seconds.
+  path: Assets/Scripts/Miscellaneous Scripts/ParticleEffect.cs
+  artifactKey: Guid(8f335fec377d2ee4f935b32160aabb20) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scripts/Miscellaneous Scripts/ParticleEffect.cs using Guid(8f335fec377d2ee4f935b32160aabb20) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '141837230c2c148b2fbf363e4c2fbc4d') in 0.008332 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000166 seconds.
+  path: Assets/UI/healthbar.png
+  artifactKey: Guid(7998ac77d1ce7d94f83ae304043505bf) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/UI/healthbar.png using Guid(7998ac77d1ce7d94f83ae304043505bf) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '3ec7994ca5d7cf699be7078e3815607d') in 0.008576 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000177 seconds.
+  path: Assets/Environment/Cave Tileset/cave1 palette/cave1_4.asset
+  artifactKey: Guid(78e9b728a64b01448a3d670d3d3a05b7) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Environment/Cave Tileset/cave1 palette/cave1_4.asset using Guid(78e9b728a64b01448a3d670d3d3a05b7) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '0c0510dac57d4de98990141db345e88e') in 0.025856 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000311 seconds.
+  path: Assets/Environment/Cave Tileset/cave1 palette/cave1_19.asset
+  artifactKey: Guid(ea032fab274024546a64e9d6538d2af3) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Environment/Cave Tileset/cave1 palette/cave1_19.asset using Guid(ea032fab274024546a64e9d6538d2af3) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '76e007e305788de0f067394fc5573e32') in 0.007009 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/Characters/followers/genericgoblin/gun1bullet.prefab
+  artifactKey: Guid(1dbb7a168f4acd0449345a5d5e076af3) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Characters/followers/genericgoblin/gun1bullet.prefab using Guid(1dbb7a168f4acd0449345a5d5e076af3) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '32232fcbd6db0b17eee8f7537ff183bf') in 0.006890 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/Characters/followers/genericgoblin/genericbabywalk.anim
+  artifactKey: Guid(a01958299ae51144d8a54eacf0704f54) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Characters/followers/genericgoblin/genericbabywalk.anim using Guid(a01958299ae51144d8a54eacf0704f54) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '0bf8896cca64c3caa67a0a5a2fcd2ed0') in 0.007190 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000305 seconds.
+  path: Assets/Characters/players/Gob/baby gob walk.anim
+  artifactKey: Guid(fce92f3b492673147a19dcd79b804dbf) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Characters/players/Gob/baby gob walk.anim using Guid(fce92f3b492673147a19dcd79b804dbf) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '11a7482b70d2540ed366f7ece469fa9a') in 0.007331 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000296 seconds.
+  path: Assets/Characters/Enemies/Dio Dudes/MiniDiodude.png
+  artifactKey: Guid(bf3b5cfc9a5a0224f906a5a0f44c96de) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Characters/Enemies/Dio Dudes/MiniDiodude.png using Guid(bf3b5cfc9a5a0224f906a5a0f44c96de) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'cd99e1b862a98e9ba170129012138181') in 0.008105 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/Characters/Enemies/Rat/Rat Jump Up.anim
+  artifactKey: Guid(6a37fba15633c34499f39889ef5d26ae) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Characters/Enemies/Rat/Rat Jump Up.anim using Guid(6a37fba15633c34499f39889ef5d26ae) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '7d1f5ef6b9904051a456081bd3e3a4a6') in 0.006550 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/Environment/Cave Tileset/cave1 palette/cave1_18.asset
+  artifactKey: Guid(e60b4cd99cdb2834894c30a5af8293ba) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Environment/Cave Tileset/cave1 palette/cave1_18.asset using Guid(e60b4cd99cdb2834894c30a5af8293ba) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'e564a342e70e479507c17abf26a08512') in 0.008291 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000345 seconds.
+  path: Assets/Characters/players/Gob/baby gob jump spritesheet.png
+  artifactKey: Guid(057f167c945a3cc4289965cb7b3c800d) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Characters/players/Gob/baby gob jump spritesheet.png using Guid(057f167c945a3cc4289965cb7b3c800d) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'dbe63225ed088b49a08149da83904c62') in 0.012300 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000217 seconds.
+  path: Assets/Scenes/xSodaGobbo/bg_grassmountain.png
+  artifactKey: Guid(f9856e6cb4135d54791b1266d9408076) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scenes/xSodaGobbo/bg_grassmountain.png using Guid(f9856e6cb4135d54791b1266d9408076) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '0d2f68ff48b72417c2aa4f0a657e66d3') in 0.015194 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/Characters/players/Gob/baby gob bullet1.prefab
+  artifactKey: Guid(c06b81b9675069a408e9653150787053) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Characters/players/Gob/baby gob bullet1.prefab using Guid(c06b81b9675069a408e9653150787053) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'e310cb338b874f38e71759a2f998b46f') in 0.007285 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000172 seconds.
+  path: Assets/Characters/Enemies/Golem/attack.anim
+  artifactKey: Guid(a1da2afd4d303684fb782909a1224420) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Characters/Enemies/Golem/attack.anim using Guid(a1da2afd4d303684fb782909a1224420) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'ce3d0e5880b4a13a04b08ca157bf11af') in 0.006874 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000217 seconds.
+  path: Assets/Scripts/Miscellaneous Scripts/CameraFollow.cs
+  artifactKey: Guid(8c3032576a1bb924db96410ac54073a7) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Scripts/Miscellaneous Scripts/CameraFollow.cs using Guid(8c3032576a1bb924db96410ac54073a7) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: 'f538a7fa999f7fc401dc68554bb0c5e9') in 0.007238 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/Characters/players/Gob/Gob.controller
+  artifactKey: Guid(9f20a69286fbea748ade4779e9cdc812) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Characters/players/Gob/Gob.controller using Guid(9f20a69286fbea748ade4779e9cdc812) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '4ccc20117df2e7fc9a49fa25b0bb03cc') in 0.007772 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000171 seconds.
+  path: Assets/Environment/Cave Tileset/cave1 palette/cave1_7.asset
+  artifactKey: Guid(ea55ecb12a9e79848a49cb28c63dd7f3) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Environment/Cave Tileset/cave1 palette/cave1_7.asset using Guid(ea55ecb12a9e79848a49cb28c63dd7f3) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '62e2148096701bd4b8a155587f46638a') in 0.008540 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000154 seconds.
+  path: Assets/Characters/Enemies/Bat/bat attack.anim
+  artifactKey: Guid(0fdcee8b29168ab40b11ef54eee6b616) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Characters/Enemies/Bat/bat attack.anim using Guid(0fdcee8b29168ab40b11ef54eee6b616) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '9d45d14a2aa6e95da053678cfafed0a9') in 0.007652 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 141.028704 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3318476859726f4caeffa6de82dd7c88') in 0.009739 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004512 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Aric\OneDrive\Documents\Unity projects\Baby Goblins\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Aric\OneDrive\Documents\Unity projects\Baby Goblins\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.21 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.066 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1066ms)
+		BeginReloadAssembly (126ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (10ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (42ms)
+		EndReloadAssembly (892ms)
+			LoadAssemblies (87ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (324ms)
+			ReleaseScriptCaches (3ms)
+			RebuildScriptCaches (43ms)
+			SetupLoadedEditorAssemblies (318ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (63ms)
+				ProcessInitializeOnLoadAttributes (238ms)
+				ProcessInitializeOnLoadMethodAttributes (6ms)
+				AfterProcessingInitializeOnLoad (4ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (20ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.64 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4744 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 226.5 MB.
+System memory in use after: 227.0 MB.
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 6544.
+Total: 3.822500 ms (FindLiveObjects: 0.381700 ms CreateObjectMapping: 0.157300 ms MarkObjects: 3.054000 ms  DeleteObjects: 0.228300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

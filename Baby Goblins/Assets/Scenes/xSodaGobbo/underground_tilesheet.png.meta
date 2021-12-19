@@ -1,0 +1,1464 @@
+fileFormatVersion: 2
+guid: ed99a97449f484941877995ab114b9dd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -180311465287909128
+    second: underground_tilesheet_0
+  - first:
+      213: 7593885959394378575
+    second: underground_tilesheet_1
+  - first:
+      213: -686648104218394586
+    second: underground_tilesheet_2
+  - first:
+      213: 3046151132154598298
+    second: underground_tilesheet_3
+  - first:
+      213: 3676276940164062026
+    second: underground_tilesheet_4
+  - first:
+      213: -5027304608869182476
+    second: underground_tilesheet_5
+  - first:
+      213: 9120892592993929255
+    second: underground_tilesheet_6
+  - first:
+      213: -230014065942904661
+    second: underground_tilesheet_7
+  - first:
+      213: -1676712617948883585
+    second: underground_tilesheet_8
+  - first:
+      213: 1476262103757709939
+    second: underground_tilesheet_9
+  - first:
+      213: -2050649341195928944
+    second: underground_tilesheet_10
+  - first:
+      213: -6255334584933029603
+    second: underground_tilesheet_11
+  - first:
+      213: -3564844737891720403
+    second: underground_tilesheet_12
+  - first:
+      213: 789554506568068220
+    second: underground_tilesheet_13
+  - first:
+      213: -2521082403639491500
+    second: underground_tilesheet_14
+  - first:
+      213: -7120900397877318270
+    second: underground_tilesheet_15
+  - first:
+      213: -8010666115866117626
+    second: underground_tilesheet_16
+  - first:
+      213: 6069552370620069582
+    second: underground_tilesheet_17
+  - first:
+      213: 7550267975130982286
+    second: underground_tilesheet_18
+  - first:
+      213: 1584962233150122199
+    second: underground_tilesheet_19
+  - first:
+      213: -2429548859268461084
+    second: underground_tilesheet_20
+  - first:
+      213: -1767638432362255821
+    second: underground_tilesheet_21
+  - first:
+      213: 296851971951254392
+    second: underground_tilesheet_22
+  - first:
+      213: 2340331926177312359
+    second: underground_tilesheet_23
+  - first:
+      213: -2806938851803927130
+    second: underground_tilesheet_24
+  - first:
+      213: -5301632273871309603
+    second: underground_tilesheet_25
+  - first:
+      213: 9090600388001165433
+    second: underground_tilesheet_26
+  - first:
+      213: 3389525524069960514
+    second: underground_tilesheet_27
+  - first:
+      213: -2925823712392371163
+    second: underground_tilesheet_28
+  - first:
+      213: -5927804836662296206
+    second: underground_tilesheet_29
+  - first:
+      213: 8127607289673927919
+    second: underground_tilesheet_30
+  - first:
+      213: 3276452710661801653
+    second: underground_tilesheet_31
+  - first:
+      213: 6837093089582213550
+    second: underground_tilesheet_32
+  - first:
+      213: -714667954253152095
+    second: underground_tilesheet_33
+  - first:
+      213: 5430594452906686966
+    second: underground_tilesheet_34
+  - first:
+      213: -1597317385590586219
+    second: underground_tilesheet_35
+  - first:
+      213: 4680306290702091014
+    second: underground_tilesheet_36
+  - first:
+      213: 6881621393607643425
+    second: underground_tilesheet_37
+  - first:
+      213: 7419721229197274026
+    second: underground_tilesheet_38
+  - first:
+      213: -6294945890629198857
+    second: underground_tilesheet_39
+  - first:
+      213: -890900433553604425
+    second: underground_tilesheet_40
+  - first:
+      213: -853420120563195136
+    second: underground_tilesheet_41
+  - first:
+      213: 5718602573720644101
+    second: underground_tilesheet_42
+  - first:
+      213: 8505066618989867091
+    second: underground_tilesheet_43
+  - first:
+      213: -4094987030997138413
+    second: underground_tilesheet_44
+  - first:
+      213: -4407835673317481522
+    second: underground_tilesheet_45
+  - first:
+      213: 4376606658075605880
+    second: underground_tilesheet_46
+  - first:
+      213: -1638382931508068323
+    second: underground_tilesheet_47
+  - first:
+      213: -8361147415969922970
+    second: underground_tilesheet_48
+  - first:
+      213: -4248766796298292773
+    second: underground_tilesheet_49
+  - first:
+      213: 3215373354024394938
+    second: underground_tilesheet_50
+  - first:
+      213: -9005257481157227093
+    second: underground_tilesheet_51
+  - first:
+      213: -4934749351253167761
+    second: underground_tilesheet_52
+  - first:
+      213: 7639360949995178099
+    second: underground_tilesheet_53
+  - first:
+      213: -2059805552081206174
+    second: underground_tilesheet_54
+  - first:
+      213: -1281923721319293315
+    second: underground_tilesheet_55
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: underground_tilesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 179
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f0859a7da76f7df0800000000000000
+      internalID: -180311465287909128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_tilesheet_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 179
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f434782cb07e26960800000000000000
+      internalID: 7593885959394378575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_tilesheet_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 179
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6200e5eef298876f0800000000000000
+      internalID: -686648104218394586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_tilesheet_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 179
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a939a34c05a164a20800000000000000
+      internalID: 3046151132154598298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_tilesheet_4
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 179
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b507a3662c40330800000000000000
+      internalID: 3676276940164062026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_tilesheet_5
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 179
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f31ba2181d6b3ab0800000000000000
+      internalID: -5027304608869182476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_tilesheet_6
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 179
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72805ef1d7be39e70800000000000000
+      internalID: 9120892592993929255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_tilesheet_7
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 179
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba0412afc63deccf0800000000000000
+      internalID: -230014065942904661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_tilesheet_8
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 179
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f75ddb0f1ce1bb8e0800000000000000
+      internalID: -1676712617948883585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_tilesheet_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 147
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37269d1df8cbc7410800000000000000
+      internalID: 1476262103757709939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_tilesheet_10
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 147
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ab02bf941aa83e0800000000000000
+      internalID: -2050649341195928944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_tilesheet_11
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 147
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d19e9d156569039a0800000000000000
+      internalID: -6255334584933029603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_tilesheet_12
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 147
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d232b862990278ec0800000000000000
+      internalID: -3564844737891720403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_tilesheet_13
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 147
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c6cc6f3af05fa00800000000000000
+      internalID: 789554506568068220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_tilesheet_14
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 147
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 454849149e0530dd0800000000000000
+      internalID: -2521082403639491500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_tilesheet_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 147
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28da597f0da7d2d90800000000000000
+      internalID: -7120900397877318270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_tilesheet_16
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 147
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60aba852c9564d090800000000000000
+      internalID: -8010666115866117626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_tilesheet_17
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 147
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6707429b16b3450800000000000000
+      internalID: 6069552370620069582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_tilesheet_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 115
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e87a0b868b0f7c860800000000000000
+      internalID: 7550267975130982286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_tilesheet_19
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 115
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d8a259e0caeef510800000000000000
+      internalID: 1584962233150122199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_tilesheet_20
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 115
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed09de4f22884ed0800000000000000
+      internalID: -2429548859268461084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_tilesheet_21
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 115
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a28bb06361877e0800000000000000
+      internalID: -1767638432362255821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_tilesheet_22
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 115
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b5703bb41ae1400800000000000000
+      internalID: 296851971951254392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_tilesheet_23
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 115
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76eed4cbc778a7020800000000000000
+      internalID: 2340331926177312359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_tilesheet_24
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 115
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6adebff6cffbb09d0800000000000000
+      internalID: -2806938851803927130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_tilesheet_25
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 115
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd477224981dc66b0800000000000000
+      internalID: -5301632273871309603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_tilesheet_26
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 115
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97076d983ec482e70800000000000000
+      internalID: 9090600388001165433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_tilesheet_27
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 115
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b4f4371830a0f20800000000000000
+      internalID: 3389525524069960514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_tilesheet_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 83
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5242073d5d26567d0800000000000000
+      internalID: -2925823712392371163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_tilesheet_29
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 83
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 271c6ec68e43cbda0800000000000000
+      internalID: -5927804836662296206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_tilesheet_30
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 83
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fecc3ee94cf0bc070800000000000000
+      internalID: 8127607289673927919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_tilesheet_31
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 83
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6cc56816c487d20800000000000000
+      internalID: 3276452710661801653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_tilesheet_32
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 83
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea963d4c0fb32ee50800000000000000
+      internalID: 6837093089582213550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_tilesheet_33
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 83
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a0c266384df416f0800000000000000
+      internalID: -714667954253152095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_tilesheet_34
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 83
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f9b5b4e1e85d5b40800000000000000
+      internalID: 5430594452906686966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_tilesheet_35
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 83
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594415efc4035d9e0800000000000000
+      internalID: -1597317385590586219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_tilesheet_36
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 83
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 603035926c9c3f040800000000000000
+      internalID: 4680306290702091014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_tilesheet_37
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 83
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12156b4723e608f50800000000000000
+      internalID: 6881621393607643425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_tilesheet_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 51
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab6ab6852528f660800000000000000
+      internalID: 7419721229197274026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_tilesheet_39
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 51
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fbddb4801cd3a8a0800000000000000
+      internalID: -6294945890629198857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_tilesheet_40
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 51
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0cbcf96c2e2a3f0800000000000000
+      internalID: -890900433553604425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_tilesheet_41
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 51
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003e8a50cea0824f0800000000000000
+      internalID: -853420120563195136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_tilesheet_42
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 51
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ae04a0ebe8c5f40800000000000000
+      internalID: 5718602573720644101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_tilesheet_43
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 51
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3507ce73701180670800000000000000
+      internalID: 8505066618989867091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_tilesheet_44
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 51
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3148591ddfeab27c0800000000000000
+      internalID: -4094987030997138413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_tilesheet_45
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 51
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3ed9f0fc834d2c0800000000000000
+      internalID: -4407835673317481522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_tilesheet_46
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 51
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87bb4383194dcbc30800000000000000
+      internalID: 4376606658075605880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_tilesheet_47
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 51
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d100661876b4349e0800000000000000
+      internalID: -1638382931508068323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_tilesheet_48
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 19
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 660007479bc37fb80800000000000000
+      internalID: -8361147415969922970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_tilesheet_49
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 19
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd17a251c195905c0800000000000000
+      internalID: -4248766796298292773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_tilesheet_50
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 19
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab061ea970d4f9c20800000000000000
+      internalID: 3215373354024394938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_tilesheet_51
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 19
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: badc1b46806e60380800000000000000
+      internalID: -9005257481157227093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_tilesheet_52
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 19
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6137f64c9f348bb0800000000000000
+      internalID: -4934749351253167761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_tilesheet_54
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 19
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26482d183c91a63e0800000000000000
+      internalID: -2059805552081206174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_tilesheet_53
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 147
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37804771f46740a60800000000000000
+      internalID: 7639360949995178099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_tilesheet_55
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 179
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7edd99da21b53ee0800000000000000
+      internalID: -1281923721319293315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

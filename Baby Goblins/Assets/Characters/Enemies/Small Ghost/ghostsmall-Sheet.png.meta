@@ -1,0 +1,660 @@
+fileFormatVersion: 2
+guid: 49426c23343dc32418a7e4467f6f396b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 499392470581629870
+    second: ghostsmall-Sheet_0
+  - first:
+      213: -4837091852615756203
+    second: ghostsmall-Sheet_1
+  - first:
+      213: -11449016570529243
+    second: ghostsmall-Sheet_2
+  - first:
+      213: -1263029377195293123
+    second: ghostsmall-Sheet_3
+  - first:
+      213: -7328807706691395633
+    second: ghostsmall-Sheet_4
+  - first:
+      213: -8547054193038651095
+    second: ghostsmall-Sheet_5
+  - first:
+      213: -3062634287073062557
+    second: ghostsmall-Sheet_6
+  - first:
+      213: 4229403576356638741
+    second: ghostsmall-Sheet_7
+  - first:
+      213: -6012814378211676598
+    second: ghostsmall-Sheet_8
+  - first:
+      213: -7328315156832583270
+    second: ghostsmall-Sheet_9
+  - first:
+      213: -8250452204710805252
+    second: ghostsmall-Sheet_10
+  - first:
+      213: 8157191388084829734
+    second: ghostsmall-Sheet_11
+  - first:
+      213: -1350482147928094895
+    second: ghostsmall-Sheet_12
+  - first:
+      213: 3056770365458469773
+    second: ghostsmall-Sheet_13
+  - first:
+      213: 805811375273227300
+    second: ghostsmall-Sheet_14
+  - first:
+      213: -1030120865194613499
+    second: ghostsmall-Sheet_15
+  - first:
+      213: -8420304671628172816
+    second: ghostsmall-Sheet_16
+  - first:
+      213: 6686167268628399673
+    second: ghostsmall-Sheet_17
+  - first:
+      213: 2151084787225118613
+    second: ghostsmall-Sheet_18
+  - first:
+      213: 2631289624462367369
+    second: ghostsmall-Sheet_19
+  - first:
+      213: -2735451096764542684
+    second: ghostsmall-Sheet_20
+  - first:
+      213: 9003794277499793643
+    second: ghostsmall-Sheet_21
+  - first:
+      213: -7332803998824970787
+    second: ghostsmall-Sheet_22
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ghostsmall-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 119
+        width: 8
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea3d58c5ec23ee600800000000000000
+      internalID: 499392470581629870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostsmall-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 119
+        width: 8
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 556d6ea86923fdcb0800000000000000
+      internalID: -4837091852615756203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostsmall-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 119
+        width: 8
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a394a1e2357dff0800000000000000
+      internalID: -11449016570529243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostsmall-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 119
+        width: 8
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3644672971d87ee0800000000000000
+      internalID: -1263029377195293123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostsmall-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 119
+        width: 8
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf938f6838da4a90800000000000000
+      internalID: -7328807706691395633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostsmall-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 92
+        width: 9
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5555556, y: 0.625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9211be3ee73c26980800000000000000
+      internalID: -8547054193038651095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostsmall-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 92
+        width: 13
+        height: 16
+      alignment: 9
+      pivot: {x: 0.53846157, y: 0.625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361141aa7565f75d0800000000000000
+      internalID: -3062634287073062557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostsmall-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 93
+        width: 15
+        height: 15
+      alignment: 9
+      pivot: {x: 0.53333336, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5101184f42cd1ba30800000000000000
+      internalID: 4229403576356638741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostsmall-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 92
+        width: 12
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ee4562e213e8ca0800000000000000
+      internalID: -6012814378211676598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostsmall-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 92
+        width: 9
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5555556, y: 0.625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9102e221389c4a90800000000000000
+      internalID: -7328315156832583270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostsmall-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 65
+        width: 8
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0cfddbe61808d80800000000000000
+      internalID: -8250452204710805252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostsmall-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 65
+        width: 13
+        height: 16
+      alignment: 9
+      pivot: {x: 0.6923077, y: 0.625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62efbab495a243170800000000000000
+      internalID: 8157191388084829734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostsmall-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 65
+        width: 12
+        height: 16
+      alignment: 9
+      pivot: {x: 0.6666667, y: 0.625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1574d3144af124de0800000000000000
+      internalID: -1350482147928094895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostsmall-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 65
+        width: 27
+        height: 16
+      alignment: 9
+      pivot: {x: 0.8518519, y: 0.625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83d711b374db6a20800000000000000
+      internalID: 3056770365458469773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostsmall-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 39
+        width: 40
+        height: 15
+      alignment: 9
+      pivot: {x: 0.90000004, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 424312b2d21de2b00800000000000000
+      internalID: 805811375273227300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostsmall-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 39
+        width: 45
+        height: 15
+      alignment: 9
+      pivot: {x: 0.9111111, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5056b5ae78644b1f0800000000000000
+      internalID: -1030120865194613499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostsmall-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 39
+        width: 49
+        height: 15
+      alignment: 9
+      pivot: {x: 0.9183673, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f16a0b8381152b80800000000000000
+      internalID: -8420304671628172816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostsmall-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 38
+        width: 51
+        height: 16
+      alignment: 9
+      pivot: {x: 0.92156863, y: 0.625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 936807bb4b90acc50800000000000000
+      internalID: 6686167268628399673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostsmall-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 38
+        width: 50
+        height: 16
+      alignment: 9
+      pivot: {x: 0.91999996, y: 0.625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 597cc4097303add10800000000000000
+      internalID: 2151084787225118613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostsmall-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 11
+        width: 50
+        height: 16
+      alignment: 9
+      pivot: {x: 0.91999996, y: 0.625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a1047e8f7348420800000000000000
+      internalID: 2631289624462367369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostsmall-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 12
+        width: 36
+        height: 15
+      alignment: 9
+      pivot: {x: 0.8888889, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42195e478b9b90ad0800000000000000
+      internalID: -2735451096764542684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostsmall-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 12
+        width: 12
+        height: 15
+      alignment: 9
+      pivot: {x: 0.6666667, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0f115f037e3fc70800000000000000
+      internalID: 9003794277499793643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostsmall-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 11
+        width: 9
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5555556, y: 0.625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5497a2d95ac3a90800000000000000
+      internalID: -7332803998824970787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

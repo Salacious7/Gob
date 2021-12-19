@@ -1,0 +1,666 @@
+fileFormatVersion: 2
+guid: 6d8480c315789004891aa84e8b4de745
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3632909039589101158
+    second: golemfirespirit-Sheet_22
+  - first:
+      213: -2654845693947144560
+    second: golemfirespirit-Sheet_23
+  - first:
+      213: -3810583614311425648
+    second: golemfirespirit-Sheet_24
+  - first:
+      213: 7441240098880854620
+    second: golemfirespirit-Sheet_25
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: golemfirespirit-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 136
+        width: 13
+        height: 39
+      alignment: 9
+      pivot: {x: 0.61538464, y: 0.71794873}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f92f807a49a0db0800000000000000
+      internalID: -4824880605643497725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemfirespirit-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 135
+        width: 12
+        height: 41
+      alignment: 9
+      pivot: {x: 0.6666667, y: 0.70731705}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba674c8f4b270e280800000000000000
+      internalID: -9016080332402428245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemfirespirit-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 136
+        width: 11
+        height: 31
+      alignment: 9
+      pivot: {x: 0.6363636, y: 0.9032258}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3defbad5964f770800000000000000
+      internalID: 8643649435869303744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemfirespirit-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 139
+        width: 11
+        height: 29
+      alignment: 9
+      pivot: {x: 0.6363636, y: 0.86206895}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32267680d3d214960800000000000000
+      internalID: 7584392987625873955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemfirespirit-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 142
+        width: 12
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5833334, y: 0.7586207}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb5454c5138a01470800000000000000
+      internalID: 8363369437981918651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemfirespirit-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 134
+        width: 16
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6976744}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff2212a0712f2650800000000000000
+      internalID: 6210219178806358002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemfirespirit-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 135
+        width: 19
+        height: 43
+      alignment: 9
+      pivot: {x: 0.42105263, y: 0.6744186}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e5ab4c341bf1fb0800000000000000
+      internalID: -4674822983565812128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemfirespirit-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 134
+        width: 20
+        height: 45
+      alignment: 9
+      pivot: {x: 0.4, y: 0.6666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0bb9ab6703e09c70800000000000000
+      internalID: 8975923678359960332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemfirespirit-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 83
+        width: 40
+        height: 25
+      alignment: 9
+      pivot: {x: 0.05, y: 0.68}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c168f4adf229f5f00800000000000000
+      internalID: 1107764767580194332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemfirespirit-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 84
+        width: 20
+        height: 22
+      alignment: 9
+      pivot: {x: 0.1, y: 0.72727275}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c348813984493cc50800000000000000
+      internalID: 6684349311374361660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemfirespirit-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 87
+        width: 12
+        height: 16
+      alignment: 9
+      pivot: {x: 0.16666667, y: 0.8125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e5792464042e0c30800000000000000
+      internalID: 4327435893228533222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemfirespirit-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 84
+        width: 20
+        height: 20
+      alignment: 9
+      pivot: {x: 0.1, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ede3a2ae817ad90800000000000000
+      internalID: -7086668094634008989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemfirespirit-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 83
+        width: 21
+        height: 24
+      alignment: 9
+      pivot: {x: 0.0952381, y: 0.7083334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 124444c8593b1df90800000000000000
+      internalID: -6930560896661699551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemfirespirit-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 82
+        width: 34
+        height: 25
+      alignment: 9
+      pivot: {x: 0.05882353, y: 0.71999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a391686f053d5d3e0800000000000000
+      internalID: -2029483712373712582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemfirespirit-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 81
+        width: 39
+        height: 26
+      alignment: 9
+      pivot: {x: 0.051282052, y: 0.7307693}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7619d975279adb1c0800000000000000
+      internalID: -4486243345229835929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemfirespirit-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 9
+        width: 13
+        height: 39
+      alignment: 9
+      pivot: {x: 0.61538464, y: 0.71794873}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca0fd119328d7d70800000000000000
+      internalID: 9042526808454400710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemfirespirit-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 8
+        width: 12
+        height: 41
+      alignment: 9
+      pivot: {x: 0.6666667, y: 0.70731705}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d875e20e817bcde0800000000000000
+      internalID: -1311830011700479791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemfirespirit-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 9
+        width: 14
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.9032258}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ab4e717c69a11f0800000000000000
+      internalID: -1073379779330917830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemfirespirit-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 12
+        width: 21
+        height: 29
+      alignment: 9
+      pivot: {x: 0.47619048, y: 0.86206895}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1803b5dddcb6701a0800000000000000
+      internalID: -6843382576839970687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemfirespirit-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 15
+        width: 29
+        height: 29
+      alignment: 9
+      pivot: {x: 0.4137931, y: 0.7586207}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2afebf94377ae50800000000000000
+      internalID: 6820546922272498404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemfirespirit-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 7
+        width: 29
+        height: 43
+      alignment: 9
+      pivot: {x: 0.4137931, y: 0.6976744}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d90d6f734b0bf620800000000000000
+      internalID: 2808851177124202964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemfirespirit-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 8
+        width: 28
+        height: 43
+      alignment: 9
+      pivot: {x: 0.42857146, y: 0.6744186}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bec5f1f58aa36300800000000000000
+      internalID: 244226297074929329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemfirespirit-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 7
+        width: 42
+        height: 45
+      alignment: 9
+      pivot: {x: 0.64285713, y: 0.6666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e8306068faa6230800000000000000
+      internalID: 3632909039589101158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemfirespirit-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 9
+        width: 32
+        height: 39
+      alignment: 9
+      pivot: {x: 0.84375, y: 0.71794873}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0961ec648e7182bd0800000000000000
+      internalID: -2654845693947144560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemfirespirit-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 12
+        width: 31
+        height: 37
+      alignment: 9
+      pivot: {x: 0.87096775, y: 0.6756757}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0991b0264661e1bc0800000000000000
+      internalID: -3810583614311425648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golemfirespirit-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 9
+        width: 31
+        height: 31
+      alignment: 9
+      pivot: {x: 0.87096775, y: 0.9032258}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5a9f2ec178944760800000000000000
+      internalID: 7441240098880854620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
